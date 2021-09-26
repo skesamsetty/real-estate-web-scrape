@@ -1,0 +1,840 @@
+Address,Status,Property Type,Price,Price per sqft,HOA Fees,Bed,Bath,Size,Garage,Year Built,Street,City,State,Zip
+"4343 S Budlong Ave, Los Angeles, CA 90037",For Sale,Single Family,"749,000",446,No Info,4,3,"1,680",No Info,1922,4343 S Budlong Ave, Los Angeles,CA,90037
+"10908 Jamie Ave, Pacoima, CA 91331",For Sale,Single Family,"710,000",435,No Info,3,2,"1,632",No Info,1957,10908 Jamie Ave, Pacoima,CA,91331
+"158 S Hoover St, Los Angeles, CA 90004",For Sale,Single Family,"968,000",389,No Info,4,2,"2,486",No Info,1913,158 S Hoover St, Los Angeles,CA,90004
+"2133 W 111th St, Los Angeles, CA 90047",For Sale,Single Family,"570,000",484,No Info,3,1,"1,178",No Info,1947,2133 W 111th St, Los Angeles,CA,90047
+"3824 S Harvard Blvd, Los Angeles, CA 90062",For Sale,Single Family,"689,000",879,No Info,2,2,784,No Info,1921,3824 S Harvard Blvd, Los Angeles,CA,90062
+"1850 Industrial St Apt 110, Los Angeles, CA 90021",For Sale,Condo,"795,000",716,778,1,1,"1,110",No Info,1925,1850 Industrial St Apt 110, Los Angeles,CA,90021
+"1232 Meadowbrook Ave, Los Angeles, CA 90019",For Sale,Multi-Family,"1,600,000",552,778,4,3,"2,901",No Info,1925,1232 Meadowbrook Ave, Los Angeles,CA,90019
+"2081 W 29th St, Los Angeles, CA 90018",For Sale,Single Family,"949,900",497,778,4,2,"1,911",No Info,1907,2081 W 29th St, Los Angeles,CA,90018
+"267 S San Pedro St Unit 607, Los Angeles, CA 90012",For Sale,Condo,"539,999",509,759,2,2,"1,060",No Info,2006,267 S San Pedro St Unit 607, Los Angeles,CA,90012
+"8828 Pershing Dr Apt 118, Playa Del Rey, CA 90293",For Sale,Condo,"829,000",517,505,2,2,"1,603",2,1981,8828 Pershing Dr Apt 118, Playa Del Rey,CA,90293
+"268 W Ofarrell St, San Pedro, CA 90731",For Sale,Single Family,"625,000",898,505,4,1,696,2,1952,268 W Ofarrell St, San Pedro,CA,90731
+"1779 W 37th Pl, Los Angeles, CA 90018",For Sale,Single Family,"730,000",735,505,2,1,993,2,1940,1779 W 37th Pl, Los Angeles,CA,90018
+"616 N Martel Ave, Los Angeles, CA 90036",For Sale,Single Family,"4,688,000",1003,505,5,7,"4,676",2,2018,616 N Martel Ave, Los Angeles,CA,90036
+"4533 Vista Del Monte Ave Apt 304, Sherman Oaks, CA 91403",For Sale,Condo,"799,000",509,570,2,2,"1,570",2,2006,4533 Vista Del Monte Ave Apt 304, Sherman Oaks,CA,91403
+"645 W 9th St Apt 534, Los Angeles, CA 90015",For Sale,Condo,"560,000",709,570,1,1,790,1,2006,645 W 9th St Apt 534, Los Angeles,CA,90015
+"8675 Falmouth Ave Apt 203, Playa Del Rey, CA 90293",For Sale,Condo,"575,000",764,432,1,1,753,1,1983,8675 Falmouth Ave Apt 203, Playa Del Rey,CA,90293
+"2120 Brawley St, Los Angeles, CA 90032",For Sale,Multi-Family,"899,000",307,432,8,4,"2,924",3,1964,2120 Brawley St, Los Angeles,CA,90032
+"9936 Wealtha Ave, Sun Valley, CA 91352",For Sale,Single Family,"1,000,000",523,432,3,3,"1,911",2,1958,9936 Wealtha Ave, Sun Valley,CA,91352
+"854 W Basin St, San Pedro, CA 90731",For Sale,Single Family,"975,000",488,432,4,2,"1,996",2,1963,854 W Basin St, San Pedro,CA,90731
+"13044 Pacific Promenade Apt 212, Playa Vista, CA 90094",For Sale,Condo,"699,000",763,684,1,1,916,2,2004,13044 Pacific Promenade Apt 212, Playa Vista,CA,90094
+"18117 Tarzana St, Tarzana, CA 91356",For Sale,Single Family,"799,000",831,684,2,1,961,1,1950,18117 Tarzana St, Tarzana,CA,91356
+"706 W 90th St, Los Angeles, CA 90044",For Sale,Multi-Family,"874,900",434,684,4,No Info,"2,016",1,1948,706 W 90th St, Los Angeles,CA,90044
+"1100 S Grand Ave Unit A008, Los Angeles, CA 90015",For Sale,Condo,"1,499,000",769,731,3,3,"1,950",2,1923,1100 S Grand Ave Unit A008, Los Angeles,CA,90015
+"1731 S New England St, Los Angeles, CA 90006",For Sale,Multi-Family,"1,199,000",531,731,6,4,"2,260",2,1912,1731 S New England St, Los Angeles,CA,90006
+"3017 LA Paz Dr, Silver Lakes, CA 90039",For Sale,Single Family,"1,149,000",893,731,2,1,"1,286",2,1931,3017 LA Paz Dr, Silver Lakes,CA,90039
+"1520 W 216th St, Torrance, CA 90501",For Sale,Single Family,"849,500",512,731,4,2,"1,660",2,1948,1520 W 216th St, Torrance,CA,90501
+"5132 Melrose Ave, Los Angeles, CA 90038",For Sale,Townhome,"1,199,000",654,155,3,3,"1,834",2,2014,5132 Melrose Ave, Los Angeles,CA,90038
+"10982 Roebling Ave Apt 351, Los Angeles, CA 90024",For Sale,Condo,"835,000",930,440,2,2,898,2,1973,10982 Roebling Ave Apt 351, Los Angeles,CA,90024
+"24400 Torch St, Woodland Hills, CA 91367",For Sale,Single Family,"1,375,000",682,440,4,2,"2,016",2,1964,24400 Torch St, Woodland Hills,CA,91367
+"1816 Palisades Dr, Pacific Palisades, CA 90272",For Sale,Townhome,"1,695,000",867,790,2,3,"1,955",2,1978,1816 Palisades Dr, Pacific Palisades,CA,90272
+"4080 Glencoe Ave Unit 312, Marina del Rey, CA 90292",For Sale,Condo,"1,175,000",703,555,2,2,"1,672",2,2011,4080 Glencoe Ave Unit 312, Marina del Rey,CA,90292
+"15498 Hamner Dr, Los Angeles, CA 90077",For Sale,Single Family,"2,495,000",580,555,6,5,"4,303",3,1962,15498 Hamner Dr, Los Angeles,CA,90077
+"221 Hamlet St, Highland Park, CA 90042",For Sale,Multi-Family,"1,075,000",507,555,6,4,"2,119",2,1905,221 Hamlet St, Highland Park,CA,90042
+"15042 Dickens St, Sherman Oaks, CA 91403",For Sale,Multi-Family,"2,925,000",409,555,12,8,"7,146",2,1951,15042 Dickens St, Sherman Oaks,CA,91403
+"15046 Dickens St, Sherman Oaks, CA 91403",For Sale,Multi-Family,"2,925,000",409,555,12,8,"7,146",2,1951,15046 Dickens St, Sherman Oaks,CA,91403
+"5941 Willowcrest Ave, North Hollywood, CA 91601",For Sale,Multi-Family,"1,090,000",506,555,4,3,"2,155",3,1948,5941 Willowcrest Ave, North Hollywood,CA,91601
+"22630 W Clarendon St, Woodland Hills, CA 91367",For Sale,Single Family,"1,285,000",561,555,4,4,"2,289",3,1956,22630 W Clarendon St, Woodland Hills,CA,91367
+"13600 Marina Pointe Dr Unit 605, Marina del Rey, CA 90292",For Sale,Condo,"1,199,999",656,1739,2,3,"1,830",3,1999,13600 Marina Pointe Dr Unit 605, Marina del Rey,CA,90292
+"12621 Seacoast Pl, Playa Vista, CA 90094",For Sale,Single Family,"2,595,000",965,361,4,3,"2,688",2,2018,12621 Seacoast Pl, Playa Vista,CA,90094
+"13326 Beach Ave Unit 103, Marina del Rey, CA 90292",For Sale,Condo,"995,000",796,435,1,2,"1,250",2,2007,13326 Beach Ave Unit 103, Marina del Rey,CA,90292
+"10580 Wilshire Blvd Apt 18NE, Los Angeles, CA 90024",For Sale,Condo,"2,695,000",974,4170,3,4,"2,767",2,1991,10580 Wilshire Blvd Apt 18NE, Los Angeles,CA,90024
+"21133 Saticoy St, Canoga Park, CA 91304",For Sale,Multi-Family,"5,350,000",218,4170,43,4,"24,528",2,1965,21133 Saticoy St, Canoga Park,CA,91304
+"1130 E 89th St, Los Angeles, CA 90002",For Sale,Multi-Family,"515,000",218,4170,5,No Info,No Info,5,1945,1130 E 89th St, Los Angeles,CA,90002
+"3740 Santa Rosalia Dr Apt 108, Los Angeles, CA 90008",For Sale,Single Family,"569,900",570,365,2,2,"1,000",5,2007,3740 Santa Rosalia Dr Apt 108, Los Angeles,CA,90008
+"3536 W Slauson Ave, Los Angeles, CA 90043",For Sale,Multi-Family,"825,000",359,365,No Info,5,"2,300",5,1930,3536 W Slauson Ave, Los Angeles,CA,90043
+"636 Simmons Ave, Los Angeles, CA 90022",For Sale,Single Family,"495,000",543,365,3,1,912,2,1925,636 Simmons Ave, Los Angeles,CA,90022
+"13721 Carol Way, Sylmar, CA 91342",For Sale,Single Family,"589,950",331,221,3,3,"1,782",2,2009,13721 Carol Way, Sylmar,CA,91342
+"16473 W Nicklaus Dr Unit 128, Sylmar, CA 91342",For Sale,Condo,"570,200",354,351,2,2,"1,610",2,2010,16473 W Nicklaus Dr Unit 128, Sylmar,CA,91342
+"3795 S LA Salle Ave, Los Angeles, CA 90018",For Sale,Single Family,"799,000",513,351,3,1,"1,556",1,1914,3795 S LA Salle Ave, Los Angeles,CA,90018
+"5100 S Gramercy Pl, Los Angeles, CA 90062",For Sale,Multi-Family,"769,000",366,351,5,4,"2,100",1,1926,5100 S Gramercy Pl, Los Angeles,CA,90062
+"2610 Granada St, Los Angeles, CA 90065",For Sale,Single Family,"869,900",1083,351,2,2,803,2,1909,2610 Granada St, Los Angeles,CA,90065
+"416 S Spring St Apt 607, Los Angeles, CA 90013",For Sale,Condo,"568,000",768,713,No Info,1,740,2,1914,416 S Spring St Apt 607, Los Angeles,CA,90013
+"1234 Wilshire Blvd Apt 435, Los Angeles, CA 90017",For Sale,Condo,"679,000",601,622,2,1,"1,130",2,2006,1234 Wilshire Blvd Apt 435, Los Angeles,CA,90017
+"11732 Glenoaks Blvd, San Fernando, CA 91340",For Sale,Single Family,"729,777",629,622,3,2,"1,160",2,1963,11732 Glenoaks Blvd, San Fernando,CA,91340
+"1554 N Hobart Blvd Apt 2, Los Angeles, CA 90027",For Sale,Condo,"649,999",532,305,2,2,"1,221",2,1991,1554 N Hobart Blvd Apt 2, Los Angeles,CA,90027
+"2025 W 80th St, Los Angeles, CA 90047",For Sale,Single Family,"675,000",624,305,2,1,"1,082",2,1928,2025 W 80th St, Los Angeles,CA,90047
+"1342 W 79th St, Los Angeles, CA 90044",For Sale,Multi-Family,"675,000",388,305,4,3,"1,740",3,1940,1342 W 79th St, Los Angeles,CA,90044
+"3523 Division St, Los Angeles, CA 90065",For Sale,Single Family,"1,049,000",661,305,3,2,"1,588",3,1952,3523 Division St, Los Angeles,CA,90065
+"2357 Fair Park Ave, Los Angeles, CA 90041",For Sale,Single Family,"1,149,000",774,305,3,2,"1,484",1,1923,2357 Fair Park Ave, Los Angeles,CA,90041
+"374 S Miraleste Dr Unit 412, San Pedro, CA 90732",For Sale,Condo,"485,000",438,393,2,2,"1,107",1,1971,374 S Miraleste Dr Unit 412, San Pedro,CA,90732
+"10259 Monte Mar Dr, Los Angeles, CA 90064",For Sale,Single Family,"7,395,000",1046,393,6,7,"7,070",4,2014,10259 Monte Mar Dr, Los Angeles,CA,90064
+"9226 Petit Ave, Northridge, CA 91343",For Sale,Single Family,"899,000",384,393,4,3,"2,342",2,1955,9226 Petit Ave, Northridge,CA,91343
+"22130 Mayall St, Chatsworth, CA 91311",For Sale,Single Family,"1,099,000",403,393,4,3,"2,725",2,1978,22130 Mayall St, Chatsworth,CA,91311
+"13113 Mesa Verde Way, Sylmar, CA 91342",For Sale,Single Family,"990,000",275,181,4,3,"3,606",2,2001,13113 Mesa Verde Way, Sylmar,CA,91342
+"1309 Harmony Way, Torrance, CA 90501",For Sale,Townhome,"749,990",372,110,4,3,"2,016",2,2008,1309 Harmony Way, Torrance,CA,90501
+"3825 Winford Dr, Tarzana, CA 91356",For Sale,Single Family,"3,895,000",708,695,4,5,"5,501",3,1995,3825 Winford Dr, Tarzana,CA,91356
+"1126 W 14th St, San Pedro, CA 90731",For Sale,Single Family,"875,000",527,695,3,1,"1,660",2,1925,1126 W 14th St, San Pedro,CA,90731
+"8136 White Oak Ave, Northridge, CA 91325",For Sale,Single Family,"715,000",484,695,3,2,"1,478",2,1952,8136 White Oak Ave, Northridge,CA,91325
+"6020 Seabluff Dr Unit 224, Playa Vista, CA 90094",For Sale,Condo,"949,000",753,775,2,2,"1,260",2,2006,6020 Seabluff Dr Unit 224, Playa Vista,CA,90094
+"7930 Oakdale Ave, Winnetka, CA 91306",For Sale,Single Family,"834,900",556,775,3,2,"1,501",2,1963,7930 Oakdale Ave, Winnetka,CA,91306
+"1307 W 42nd St, Los Angeles, CA 90037",For Sale,Multi-Family,"875,000",386,775,5,3,"2,266",1,1912,1307 W 42nd St, Los Angeles,CA,90037
+"18815 Lemay St, Reseda, CA 91335",For Sale,Single Family,"599,950",442,775,3,2,"1,356",2,1956,18815 Lemay St, Reseda,CA,91335
+"22911 Mariano St, Woodland Hills, CA 91367",For Sale,Single Family,"949,000",465,775,4,3,"2,040",2,1964,22911 Mariano St, Woodland Hills,CA,91367
+"8810 Etiwanda Ave, Northridge, CA 91325",For Sale,Multi-Family,"2,475,000",307,775,No Info,No Info,"8,062",2,1988,8810 Etiwanda Ave, Northridge,CA,91325
+"5364 Orrville Ave, Woodland Hills, CA 91367",For Sale,Single Family,"1,725,000",600,775,4,3,"2,876",3,1969,5364 Orrville Ave, Woodland Hills,CA,91367
+"4141 Glencoe Ave Unit 214, Marina del Rey, CA 90292",For Sale,Condo,"949,000",693,523,No Info,2,"1,370",3,2008,4141 Glencoe Ave Unit 214, Marina del Rey,CA,90292
+"13802 Dronfield Ave, Sylmar, CA 91342",For Sale,Single Family,"559,950",653,523,2,1,858,2,1989,13802 Dronfield Ave, Sylmar,CA,91342
+"10819 Woodward Ave, Sunland, CA 91040",For Sale,Single Family,"869,000",577,523,3,2,"1,505",2,1939,10819 Woodward Ave, Sunland,CA,91040
+"16816 Halper St, Encino, CA 91436",For Sale,Single Family,"1,185,000",720,523,3,2,"1,645",1,1952,16816 Halper St, Encino,CA,91436
+"11700 Iowa Ave Apt 302, West Los Angeles, CA 90025",For Sale,Condo,"1,150,000",583,720,2,3,"1,971",2,1981,11700 Iowa Ave Apt 302, West Los Angeles,CA,90025
+"7508 Lindley Ave, Reseda, CA 91335",For Sale,Multi-Family,"1,099,999",583,720,4,No Info,No Info,2,1946,7508 Lindley Ave, Reseda,CA,91335
+"10960 Ashton Ave Apt 411, Los Angeles, CA 90024",For Sale,Condo,"669,000",996,346,1,2,672,2,1986,10960 Ashton Ave Apt 411, Los Angeles,CA,90024
+"1641 Woods Dr, Los Angeles, CA 90069",For Sale,Single Family,"4,980,000",1276,346,3,3,"3,903",3,1991,1641 Woods Dr, Los Angeles,CA,90069
+"2027 S Ridgeley Dr, Los Angeles, CA 90016",For Sale,Multi-Family,"2,500,000",428,346,12,No Info,"5,838",3,1957,2027 S Ridgeley Dr, Los Angeles,CA,90016
+"12105 Via Santa Marta, Sylmar, CA 91342",For Sale,Single Family,"767,900",374,147,3,2,"2,053",2,1999,12105 Via Santa Marta, Sylmar,CA,91342
+"13970 Olive Grove Ln, Sylmar, CA 91342",For Sale,No Info,"590,000",No Info,No Info,3,2,"1,501",No Info,No Info,13970 Olive Grove Ln, Sylmar,CA,91342
+"21500 Lassen St Spc 98, Chatsworth, CA 91311",For Sale,Mfd/Mobile,"395,000",263,147,3,2,"1,500",2,1999,21500 Lassen St Spc 98, Chatsworth,CA,91311
+"17323 San Jose St, Granada Hills, CA 91344",For Sale,Single Family,"1,060,000",360,100,4,4,"2,946",3,1990,17323 San Jose St, Granada Hills,CA,91344
+"3417 Arlington Ave, Los Angeles, CA 90018",For Sale,Single Family,"849,000",648,100,3,2,"1,311",2,1913,3417 Arlington Ave, Los Angeles,CA,90018
+"4013 Guardia Ave, Los Angeles, CA 90032",For Sale,Single Family,"475,000",637,100,2,1,746,1,1924,4013 Guardia Ave, Los Angeles,CA,90032
+"13216 S Main St, Los Angeles, CA 90061",For Sale,Single Family,"599,950",398,100,3,2,"1,507",1,1994,13216 S Main St, Los Angeles,CA,90061
+"18620 Hatteras St Unit 142, Tarzana, CA 91356",For Sale,Condo,"340,000",374,400,2,2,910,2,1970,18620 Hatteras St Unit 142, Tarzana,CA,91356
+"9315 Burnet Ave Unit 112, North Hills, CA 91343",For Sale,Townhome,"625,000",372,210,3,3,"1,682",2,2003,9315 Burnet Ave Unit 112, North Hills,CA,91343
+"633 W 98th St, Los Angeles, CA 90044",For Sale,Single Family,"495,000",607,210,2,1,816,1,1925,633 W 98th St, Los Angeles,CA,90044
+"4637 Willis Ave Unit 111, Sherman Oaks, CA 91403",For Sale,Condo,"599,900",497,394,2,2,"1,208",2,1964,4637 Willis Ave Unit 111, Sherman Oaks,CA,91403
+"6301 S Harcourt Ave, Los Angeles, CA 90043",For Sale,Single Family,"920,000",597,394,3,3,"1,541",2,1925,6301 S Harcourt Ave, Los Angeles,CA,90043
+"721 E 42nd St, Los Angeles, CA 90011",For Sale,Multi-Family,"550,000",430,394,2,2,"1,278",1,1925,721 E 42nd St, Los Angeles,CA,90011
+"21931 Burbank Blvd Apt 38, Woodland Hills, CA 91367",For Sale,Townhome,"689,000",403,595,3,2,"1,711",2,1980,21931 Burbank Blvd Apt 38, Woodland Hills,CA,91367
+"343 E 35th St, Los Angeles, CA 90011",For Sale,Multi-Family,"599,990",405,595,4,2,"1,480",2,1903,343 E 35th St, Los Angeles,CA,90011
+"8916 Lev Ave, Arleta, CA 91331",For Sale,Single Family,"749,000",406,595,5,2,"1,845",2,1954,8916 Lev Ave, Arleta,CA,91331
+"1100 Wilshire Blvd Apt 2609, Los Angeles, CA 90017",For Sale,Condo,"540,000",720,1012,1,1,750,2,1986,1100 Wilshire Blvd Apt 2609, Los Angeles,CA,90017
+"1745 W 64th St, Los Angeles, CA 90047",For Sale,Multi-Family,"899,900",364,1012,No Info,No Info,"2,472",2,1927,1745 W 64th St, Los Angeles,CA,90047
+"13161 Psomas Way, Los Angeles, CA 90066",For Sale,Single Family,"6,495,000",364,1012,7,7,No Info,3,2022,13161 Psomas Way, Los Angeles,CA,90066
+"7452 Whitaker Ave, Van Nuys, CA 91406",For Sale,Single Family,"760,000",422,1012,4,2,"1,803",2,1957,7452 Whitaker Ave, Van Nuys,CA,91406
+"6639 Peach Ave, Van Nuys, CA 91406",For Sale,Single Family,"1,367,000",585,1012,3,3,"2,338",4,1947,6639 Peach Ave, Van Nuys,CA,91406
+"1855 Industrial St Apt 701, Los Angeles, CA 90021",For Sale,Condo,"2,999,000",1101,1198,2,3,"2,723",4,1923,1855 Industrial St Apt 701, Los Angeles,CA,90021
+"3518 W 3rd St, Los Angeles, CA 90020",For Sale,Multi-Family,"5,600,000",172,1198,No Info,No Info,"32,548",3,1923,3518 W 3rd St, Los Angeles,CA,90020
+"8837 Sophia Ave, North Hills, CA 91343",For Sale,Single Family,"859,900",529,1198,3,2,"1,627",2,1960,8837 Sophia Ave, North Hills,CA,91343
+"20058 Tipico St, Chatsworth, CA 91311",For Sale,Single Family,"949,000",457,1198,4,2,"2,078",3,1975,20058 Tipico St, Chatsworth,CA,91311
+"11939 Gorham Ave Apt 105, Los Angeles, CA 90049",For Sale,Condo,"999,000",579,650,2,2,"1,725",3,1981,11939 Gorham Ave Apt 105, Los Angeles,CA,90049
+"519 Beirut Ave, Pacific Palisades, CA 90272",For Sale,Single Family,"2,099,999",1574,650,3,1,"1,334",2,1947,519 Beirut Ave, Pacific Palisades,CA,90272
+"5832 David Ave, Los Angeles, CA 90034",For Sale,Single Family,"1,349,000",869,650,3,2,"1,552",2,1930,5832 David Ave, Los Angeles,CA,90034
+"11038 Blix St, North Hollywood, CA 91602",For Sale,Single Family,"1,199,900",853,650,3,2,"1,406",1,1923,11038 Blix St, North Hollywood,CA,91602
+"11616 Killion St, North Hollywood, CA 91601",For Sale,Single Family,"929,000",619,650,3,2,"1,500",2,1944,11616 Killion St, North Hollywood,CA,91601
+"4624 Ellenwood Dr, Los Angeles, CA 90041",For Sale,Multi-Family,"1,475,000",639,650,4,3,"2,310",2,1926,4624 Ellenwood Dr, Los Angeles,CA,90041
+"6934 Kittyhawk Ave, Los Angeles, CA 90045",For Sale,Multi-Family,"1,799,000",400,650,7,5,"4,503",5,1954,6934 Kittyhawk Ave, Los Angeles,CA,90045
+"1383 Miller Pl, Los Angeles, CA 90069",For Sale,Single Family,"5,975,000",1928,650,4,5,"3,099",5,1938,1383 Miller Pl, Los Angeles,CA,90069
+"7923 Ducor Ave, West Hills, CA 91304",For Sale,Single Family,"949,000",507,650,4,3,"1,873",5,1958,7923 Ducor Ave, West Hills,CA,91304
+"16910 Mayall St, North Hills, CA 91343",For Sale,Single Family,"855,000",608,650,3,2,"1,406",2,1956,16910 Mayall St, North Hills,CA,91343
+"8601 Comanche Ave, Winnetka, CA 91306",For Sale,Single Family,"800,000",766,650,3,1,"1,044",2,1951,8601 Comanche Ave, Winnetka,CA,91306
+"800 W 1st St Apt 2405, Los Angeles, CA 90012",For Sale,Condo,"940,000",554,1871,2,2,"1,697",2,1968,800 W 1st St Apt 2405, Los Angeles,CA,90012
+"958 S Lake St, Los Angeles, CA 90006",For Sale,Multi-Family,"3,098,000",244,1871,12,1,"12,696",2,1922,958 S Lake St, Los Angeles,CA,90006
+"3032 Future St, Los Angeles, CA 90065",For Sale,Single Family,"998,000",899,1871,2,1,"1,110",2,1966,3032 Future St, Los Angeles,CA,90065
+"3195 Deep Canyon Dr, Beverly Hills, CA 90210",For Sale,Single Family,"3,999,995",756,1871,5,6,"5,289",2,2002,3195 Deep Canyon Dr, Beverly Hills,CA,90210
+"1495 Roxbury Dr, Los Angeles, CA 90035",For Sale,Single Family,"2,850,000",1000,1871,5,4,"2,849",2,1950,1495 Roxbury Dr, Los Angeles,CA,90035
+"41 Sunset Ave Unit 103, Venice, CA 90291",For Sale,Condo,"1,175,000",1043,574,2,2,"1,127",2,1980,41 Sunset Ave Unit 103, Venice,CA,90291
+"1616 W 24th St, Los Angeles, CA 90007",For Sale,Single Family,"626,000",584,574,2,1,"1,072",2,1906,1616 W 24th St, Los Angeles,CA,90007
+"1333 E 41st Pl, Los Angeles, CA 90011",For Sale,Single Family,"529,900",582,574,2,2,910,2,1912,1333 E 41st Pl, Los Angeles,CA,90011
+"1856 W 43rd St, Los Angeles, CA 90062",For Sale,Single Family,"675,000",468,574,3,1,"1,442",1,1916,1856 W 43rd St, Los Angeles,CA,90062
+"3514 W 27th St, Los Angeles, CA 90018",For Sale,Single Family,"1,129,000",749,574,3,3,"1,508",1,1920,3514 W 27th St, Los Angeles,CA,90018
+"5709 Ensign Ave, North Hollywood, CA 91601",For Sale,Single Family,"750,000",497,574,3,1,"1,509",2,1929,5709 Ensign Ave, North Hollywood,CA,91601
+"20504 Acre St, Canoga Park, CA 91306",For Sale,Single Family,"796,312",538,574,4,2,"1,479",2,1956,20504 Acre St, Canoga Park,CA,91306
+"500 Perugia Way, Los Angeles, CA 90077",For Sale,Single Family,"45,000,000",4242,574,6,7,"10,607",4,1928,500 Perugia Way, Los Angeles,CA,90077
+"3327 Winchester Ave, Los Angeles, CA 90032",For Sale,Single Family,"699,000",561,574,2,1,"1,246",2,1929,3327 Winchester Ave, Los Angeles,CA,90032
+"7312 Corbin Ave Unit J, Reseda, CA 91335",For Sale,Condo,"329,900",576,355,1,1,573,2,1979,7312 Corbin Ave Unit J, Reseda,CA,91335
+"19757 Saticoy St, Winnetka, CA 91306",For Sale,Single Family,"799,000",403,355,3,3,"1,984",2,1979,19757 Saticoy St, Winnetka,CA,91306
+"12830 Burbank Blvd Unit 302, Valley Village, CA 91607",For Sale,Condo,"525,000",455,373,2,2,"1,154",2,1970,12830 Burbank Blvd Unit 302, Valley Village,CA,91607
+"3321-1/2 W 78th St W, Los Angeles, CA 90043",For Sale,Condo,"339,000",504,216,1,1,672,1,1949,3321-1/2 W 78th St W, Los Angeles,CA,90043
+"9516 S Central Ave, Los Angeles, CA 90002",For Sale,Multi-Family,"1,100,000",219,216,11,6,"5,032",1,1940,9516 S Central Ave, Los Angeles,CA,90002
+"7101 Whitaker Ave, Lake Balboa, CA 91406",For Sale,Single Family,"699,000",499,216,3,2,"1,400",2,1955,7101 Whitaker Ave, Lake Balboa,CA,91406
+"4524 Tujunga Ave Apt 9, Studio City, CA 91602",For Sale,Condo,"449,000",552,315,1,1,813,26,1978,4524 Tujunga Ave Apt 9, Studio City,CA,91602
+"1329 Club View Dr, Los Angeles, CA 90024",For Sale,Single Family,"2,695,000",842,315,5,4,"3,200",3,1933,1329 Club View Dr, Los Angeles,CA,90024
+"9335 Farralone Ave, Chatsworth, CA 91311",For Sale,Single Family,"1,250,000",406,315,4,4,"3,077",2,2001,9335 Farralone Ave, Chatsworth,CA,91311
+"425 S Arizona Ave, Los Angeles, CA 90022",For Sale,Multi-Family,"849,000",379,315,6,3,"2,243",2,1923,425 S Arizona Ave, Los Angeles,CA,90022
+"1615 Champlain Ter, Los Angeles, CA 90026",For Sale,Condo,"975,000",718,315,2,2,"1,357",2,1913,1615 Champlain Ter, Los Angeles,CA,90026
+"18230 Ingomar St, Reseda, CA 91335",For Sale,Single Family,"695,000",814,315,2,2,854,2,1950,18230 Ingomar St, Reseda,CA,91335
+"3733 Rosemead Ave, Los Angeles, CA 90032",For Sale,Single Family,"909,900",1136,315,3,2,801,1,2010,3733 Rosemead Ave, Los Angeles,CA,90032
+"10414 Myrna St, North Hollywood, CA 91601",For Sale,Single Family,"925,000",694,315,3,2,"1,332",2,1941,10414 Myrna St, North Hollywood,CA,91601
+"10535 Wilshire Blvd Apt D01, Los Angeles, CA 90024",For Sale,Condo,"675,000",620,764,2,2,"1,088",2,1978,10535 Wilshire Blvd Apt D01, Los Angeles,CA,90024
+"2952 S Palm Grove Ave, Los Angeles, CA 90016",For Sale,Multi-Family,"1,100,000",508,764,4,2,"2,166",2,1931,2952 S Palm Grove Ave, Los Angeles,CA,90016
+"301 S Vermont Ave, Los Angeles, CA 90020",For Sale,Multi-Family,"5,600,000",172,764,No Info,No Info,"32,548",3,1923,301 S Vermont Ave, Los Angeles,CA,90020
+"525 S Ardmore Ave Apt 216, Los Angeles, CA 90020",For Sale,Condo,"389,000",687,291,1,1,566,3,1973,525 S Ardmore Ave Apt 216, Los Angeles,CA,90020
+"10327 Keokuk Ave, Chatsworth, CA 91311",For Sale,Single Family,"1,250,000",457,291,5,3,"2,733",2,1963,10327 Keokuk Ave, Chatsworth,CA,91311
+"10827 Hillhaven Ave, Tujunga, CA 91042",For Sale,Single Family,"999,000",537,291,3,2,"1,860",2,1960,10827 Hillhaven Ave, Tujunga,CA,91042
+"2833 S Kerckhoff Ave, San Pedro, CA 90731",For Sale,Single Family,"825,000",655,291,3,2,"1,260",2,1964,2833 S Kerckhoff Ave, San Pedro,CA,90731
+"6200 Capistrano Ave, Woodland Hills, CA 91367",For Sale,Single Family,"1,399,000",560,291,4,3,"2,497",2,1964,6200 Capistrano Ave, Woodland Hills,CA,91367
+"6129 Rod Ave, Woodland Hills, CA 91367",For Sale,Single Family,"1,499,000",654,291,4,3,"2,293",2,1966,6129 Rod Ave, Woodland Hills,CA,91367
+"5643 Como Cir, Woodland Hills, CA 91367",For Sale,Single Family,"1,249,000",443,245,3,3,"2,820",2,2004,5643 Como Cir, Woodland Hills,CA,91367
+"18931 Kinbrace St, Porter Ranch, CA 91326",For Sale,Single Family,"1,199,000",489,245,4,3,"2,450",2,1966,18931 Kinbrace St, Porter Ranch,CA,91326
+"4758 La Villa Marina Unit J, Marina del Rey, CA 90292",For Sale,Townhome,"1,099,000",695,350,2,3,"1,582",2,1967,4758 La Villa Marina Unit J, Marina del Rey,CA,90292
+"12334 Viewcrest Rd, Studio City, CA 91604",For Sale,Single Family,"4,595,000",1245,350,4,3,"3,690",3,1937,12334 Viewcrest Rd, Studio City,CA,91604
+"5401 W Wilshire Vista Ln, Los Angeles, CA 90019",For Sale,Single Family,"1,249,000",740,200,2,3,"1,687",2,2016,5401 W Wilshire Vista Ln, Los Angeles,CA,90019
+"3634 Royal Woods Dr, Sherman Oaks, CA 91403",For Sale,Single Family,"2,199,999",806,200,4,5,"2,728",2,1957,3634 Royal Woods Dr, Sherman Oaks,CA,91403
+"221 Lake Shore Ter, Los Angeles, CA 90026",For Sale,Multi-Family,"1,249,000",1174,200,4,3,"1,064",2,1924,221 Lake Shore Ter, Los Angeles,CA,90026
+"10800 Wilshire Blvd Apt 702, Los Angeles, CA 90024",For Sale,Condo,"2,695,000",1021,3700,2,3,"2,640",2,2005,10800 Wilshire Blvd Apt 702, Los Angeles,CA,90024
+"3618 Stocker St, Los Angeles, CA 90008",For Sale,Multi-Family,"3,500,000",313,3700,16,1,"11,197",2,1941,3618 Stocker St, Los Angeles,CA,90008
+"825 N Croft Ave Unit 302, Los Angeles, CA 90069",For Sale,Condo,"1,799,000",1030,480,3,3,"1,746",2,2020,825 N Croft Ave Unit 302, Los Angeles,CA,90069
+"1041 N Spaulding Ave Unit 205, Los Angeles, CA 90046",For Sale,Townhome,"1,887,000",1179,505,3,3,"1,600",2,2020,1041 N Spaulding Ave Unit 205, Los Angeles,CA,90046
+"5132 LA Calandria Way, Los Angeles, CA 90032",For Sale,Single Family,"799,900",429,505,4,2,"1,866",2,1930,5132 LA Calandria Way, Los Angeles,CA,90032
+"434 E 90th St, Los Angeles, CA 90003",For Sale,Single Family,"649,990",426,505,4,2,"1,526",2,1926,434 E 90th St, Los Angeles,CA,90003
+"4228 7th Ave, Los Angeles, CA 90008",For Sale,Single Family,"798,000",640,505,3,1,"1,246",2,1928,4228 7th Ave, Los Angeles,CA,90008
+"1702 W 57th St, Los Angeles, CA 90062",For Sale,Multi-Family,"599,000",334,505,5,2,"1,796",2,1923,1702 W 57th St, Los Angeles,CA,90062
+"3243 W 60th St, Los Angeles, CA 90043",For Sale,Single Family,"765,000",478,505,3,3,"1,600",2,1922,3243 W 60th St, Los Angeles,CA,90043
+"821 N Oxford Ave, Los Angeles, CA 90029",For Sale,Multi-Family,"815,000",662,505,2,2,"1,232",2,1923,821 N Oxford Ave, Los Angeles,CA,90029
+"208 W 98th St, Los Angeles, CA 90003",For Sale,Single Family,"440,000",615,505,2,1,716,1,1940,208 W 98th St, Los Angeles,CA,90003
+"3308 Marguerite St, Los Angeles, CA 90065",For Sale,Single Family,"650,000",1052,505,1,1,618,1,1924,3308 Marguerite St, Los Angeles,CA,90065
+"3416 11th Ave, Los Angeles, CA 90018",For Sale,Single Family,"775,000",753,505,3,2,"1,029",1,1924,3416 11th Ave, Los Angeles,CA,90018
+"1333 Cordon Dr, Los Angeles, CA 90063",For Sale,Single Family,"869,000",547,505,3,2,"1,590",1,1929,1333 Cordon Dr, Los Angeles,CA,90063
+"620 S Gramercy Pl Apt 423, Los Angeles, CA 90005",For Sale,Condo,"439,000",795,351,No Info,1,552,1,1990,620 S Gramercy Pl Apt 423, Los Angeles,CA,90005
+"1234 Wilshire Blvd Apt 305, Los Angeles, CA 90017",For Sale,Condo,"675,000",592,623,2,2,"1,140",1,2006,1234 Wilshire Blvd Apt 305, Los Angeles,CA,90017
+"901 S Ellery Dr, Los Angeles, CA 90732",For Sale,Single Family,"750,000",652,623,2,1,"1,150",1,1940,901 S Ellery Dr, Los Angeles,CA,90732
+"8529 Mammoth Ave, Panorama City, CA 91402",For Sale,Single Family,"619,000",518,623,2,1,"1,196",2,1949,8529 Mammoth Ave, Panorama City,CA,91402
+"10044 Noble Ave, Mission Hills, CA 91345",For Sale,Single Family,"899,000",420,623,4,2,"2,140",2,1957,10044 Noble Ave, Mission Hills,CA,91345
+"3217 Morgan Ave, Los Angeles, CA 90011",For Sale,Multi-Family,"649,900",426,623,No Info,No Info,"1,527",2,1912,3217 Morgan Ave, Los Angeles,CA,90011
+"9764 Andora Ave, Chatsworth, CA 91311",For Sale,Single Family,"1,249,000",423,623,4,3,"2,952",2,1964,9764 Andora Ave, Chatsworth,CA,91311
+"2202 Hillcrest Dr, Los Angeles, CA 90016",For Sale,Multi-Family,"1,400,000",447,623,4,3,"3,132",2,1923,2202 Hillcrest Dr, Los Angeles,CA,90016
+"7100 Alvern St Apt 410, Los Angeles, CA 90045",For Sale,Condo,"717,100",629,425,2,2,"1,140",2,2010,7100 Alvern St Apt 410, Los Angeles,CA,90045
+"10327 Keokuk Ave, Chatsworth, CA 91311",For Sale,Single Family,"1,250,000",457,425,5,3,"2,733",2,1963,10327 Keokuk Ave, Chatsworth,CA,91311
+"10829 Woodward Ave, Sunland, CA 91040",For Sale,Single Family,"890,000",554,425,3,2,"1,607",2,1939,10829 Woodward Ave, Sunland,CA,91040
+"10461 Cantara St, Sun Valley, CA 91352",For Sale,Single Family,"774,999",718,425,3,1,"1,079",1,1951,10461 Cantara St, Sun Valley,CA,91352
+"22617 Margarita Dr, Woodland Hills, CA 91364",For Sale,Single Family,"1,200,000",462,425,3,4,"2,600",2,1978,22617 Margarita Dr, Woodland Hills,CA,91364
+"14285 Valley Vista Blvd, Sherman Oaks, CA 91423",For Sale,Single Family,"6,200,000",949,425,5,5,"6,534",3,1996,14285 Valley Vista Blvd, Sherman Oaks,CA,91423
+"11315 Huston St, North Hollywood, CA 91601",For Sale,Single Family,"1,137,500",599,425,3,2,"1,900",3,1926,11315 Huston St, North Hollywood,CA,91601
+"1202 Outrigger Ln, Harbor City, CA 90710",For Sale,Townhome,"1,149,000",453,219,4,3,"2,538",2,2020,1202 Outrigger Ln, Harbor City,CA,90710
+"The Estates at Ponte Vista 27812 S. Western Ave., San Pedro, CA 90732",For Sale,No Info,"From$1,437,990",No Info,No Info,4,3,"2,986",No Info,No Info,The Estates at Ponte Vista 27812 S. Western Ave., San Pedro,CA,90732
+"8436 Barnsley Ave, Los Angeles, CA 90045",For Sale,Multi-Family,"1,290,000",800,219,4,2,"1,612",2,1948,8436 Barnsley Ave, Los Angeles,CA,90045
+"7838 Shadyspring Dr, Burbank, CA 91504",For Sale,Single Family,"1,795,000",594,219,4,4,"3,024",2,1980,7838 Shadyspring Dr, Burbank,CA,91504
+"11319 Huston St, North Hollywood, CA 91601",For Sale,Single Family,"1,137,500",900,219,2,1,"1,264",2,1926,11319 Huston St, North Hollywood,CA,91601
+"11863 Nebraska Ave, Los Angeles, CA 90025",For Sale,Townhome,"1,425,000",710,375,3,2,"2,007",2,1987,11863 Nebraska Ave, Los Angeles,CA,90025
+"4821 Calhoun Ave, Sherman Oaks, CA 91423",For Sale,Single Family,"1,500,000",754,375,4,3,"1,989",2,1940,4821 Calhoun Ave, Sherman Oaks,CA,91423
+"6030 Seabluff Dr Apt 516, Playa Vista, CA 90094",For Sale,Condo,"1,128,000",964,773,2,2,"1,170",2,2019,6030 Seabluff Dr Apt 516, Playa Vista,CA,90094
+"12309 Cantura St, Studio City, CA 91604",For Sale,Single Family,"1,450,000",1252,773,2,1,"1,158",2,1936,12309 Cantura St, Studio City,CA,91604
+"2657 Ivanhoe Dr, Los Angeles, CA 90039",For Sale,Single Family,"2,799,000",884,773,3,2,"3,168",2,1952,2657 Ivanhoe Dr, Los Angeles,CA,90039
+"4136 Leimert Blvd, Los Angeles, CA 90008",For Sale,Multi-Family,"1,350,000",402,773,8,4,"3,357",4,1947,4136 Leimert Blvd, Los Angeles,CA,90008
+"1186 Corsica Dr, Pacific Palisades, CA 90272",For Sale,Single Family,"5,788,000",1287,773,5,4,"4,497",4,1953,1186 Corsica Dr, Pacific Palisades,CA,90272
+"3321 Lugano Pl, Los Angeles, CA 90068",For Sale,Single Family,"2,595,000",666,773,4,4,"3,899",3,2001,3321 Lugano Pl, Los Angeles,CA,90068
+"7721 Airport Blvd, Los Angeles, CA 90045",For Sale,Single Family,"1,399,000",830,773,3,2,"1,686",3,1949,7721 Airport Blvd, Los Angeles,CA,90045
+"612 N Sycamore Ave, Los Angeles, CA 90036",For Sale,Multi-Family,"3,195,000",443,773,12,9,"7,215",3,1957,612 N Sycamore Ave, Los Angeles,CA,90036
+"104 S Cabrillo Ave, San Pedro, CA 90731",For Sale,Multi-Family,"1,088,000",573,773,5,4,"1,900",3,1960,104 S Cabrillo Ave, San Pedro,CA,90731
+"3030 Greenfield Ave, Los Angeles, CA 90034",For Sale,Single Family,"2,749,900",895,773,4,3,"3,071",2,1941,3030 Greenfield Ave, Los Angeles,CA,90034
+"78 E 58th St, Brooklyn, NY 11203",For Sale,Single Family,"639,000",330,773,3,3,"1,939",2,1945,78 E 58th St, Brooklyn,NY,11203
+"111 W 57th St Unit 54, New York, NY 10019",For Sale,Condo,"26,750,000",6395,8579,3,3,"4,183",2,2020,111 W 57th St Unit 54, New York,NY,10019
+"363 Aspen Knolls Way, Staten Island, NY 10312",For Sale,Condo,"410,000",303,8579,2,1,"1,354",1,1996,363 Aspen Knolls Way, Staten Island,NY,10312
+"1298 Rockland Ave Apt 1G, Staten Island, NY 10314",For Sale,Condo,"319,000",498,376,1,1,640,1,1974,1298 Rockland Ave Apt 1G, Staten Island,NY,10314
+"525 E 11th St Units 3B & 4B, New York, NY 10009",For Sale,Condo,"4,895,000",2183,2407,4,3,"2,242",1,2005,525 E 11th St Units 3B & 4B, New York,NY,10009
+"40-12 149 St Unit Li, Flushing, NY 11354",For Sale,Condo,"468,000",2183,347,1,1,No Info,1,1988,40-12 149 St Unit Li, Flushing,NY,11354
+"26 Imperial Ct, Staten Island, NY 10304",For Sale,Single Family,"508,000",321,347,3,2,"1,585",1,2006,26 Imperial Ct, Staten Island,NY,10304
+"22-31 77th St Unit C2, East Elmhurst, NY 11370",For Sale,Condo,"435,000",593,535,1,1,734,1,1939,22-31 77th St Unit C2, East Elmhurst,NY,11370
+"431 Hamden Ave, Staten Island, NY 10306",For Sale,Single Family,"469,000",593,535,3,2,No Info,1,1925,431 Hamden Ave, Staten Island,NY,10306
+"70 W 18th Rd, Broad Channel, NY 11693",For Sale,Single Family,"699,999",452,535,3,1,"1,550",1,2021,70 W 18th Rd, Broad Channel,NY,11693
+"3030 Johnson Ave Apt 6H, Bronx, NY 10463",For Sale,Co-op,"289,000",304,975,2,1,950,1,1965,3030 Johnson Ave Apt 6H, Bronx,NY,10463
+"2475 W 16th St Apt 15H, Brooklyn, NY 11214",For Sale,Co-op,"458,000",366,1128,3,2,"1,250",1,1965,2475 W 16th St Apt 15H, Brooklyn,NY,11214
+"146-16 Rockaway Blvd, Jamaica, NY 11436",For Sale,Multi-Family,"899,900",326,1128,4,2,"2,760",1,1930,146-16 Rockaway Blvd, Jamaica,NY,11436
+"152-18 Union Tpke Unit 4P, Flushing, NY 11367",For Sale,Condo,"380,000",920,327,No Info,1,413,1,1973,152-18 Union Tpke Unit 4P, Flushing,NY,11367
+"132-54 60 Ave, Flushing, NY 11355",For Sale,Multi-Family,"2,080,000",920,327,5,5,No Info,1,1985,132-54 60 Ave, Flushing,NY,11355
+"132-52 60 Ave, Flushing, NY 11355",For Sale,Multi-Family,"2,180,000",920,327,5,5,No Info,1,1985,132-52 60 Ave, Flushing,NY,11355
+"88 Greenwich St Apt 629, Manhattan, NY 10006",For Sale,Condo,"720,000",920,894,No Info,1,No Info,1,1985,88 Greenwich St Apt 629, Manhattan,NY,10006
+"143 Weed Ave, Staten Island, NY 10306",For Sale,Single Family,"699,900",371,894,2,1,"1,886",1,1985,143 Weed Ave, Staten Island,NY,10306
+"57-59 Hewlett St, Little Neck, NY 11362",For Sale,Single Family,"1,268,000",597,894,3,3,"2,124",1,2007,57-59 Hewlett St, Little Neck,NY,11362
+"97-12 Linden Blvd, Ozone Park, NY 11417",For Sale,Single Family,"649,000",541,894,3,2,"1,200",1,1925,97-12 Linden Blvd, Ozone Park,NY,11417
+"222-44 92nd Rd, Queens, NY 11428",For Sale,Multi-Family,"725,000",498,894,3,2,"1,456",1,1945,222-44 92nd Rd, Queens,NY,11428
+"80-10 Bell Blvd, Hollis Hills, NY 11427",For Sale,Single Family,"968,000",498,894,3,2,No Info,2,1960,80-10 Bell Blvd, Hollis Hills,NY,11427
+"330 E 38th St Apt 21E, New York, NY 10016",For Sale,Condo,"1,595,000",1362,980,2,2,"1,171",2,1989,330 E 38th St Apt 21E, New York,NY,10016
+"34-17 103rd St Unit 102, Corona, NY 11368",For Sale,Condo,"480,000",757,321,2,1,634,2,2021,34-17 103rd St Unit 102, Corona,NY,11368
+"460 W 42nd St Ph 1A, New York, NY 10036",For Sale,Condo,"1,881,000",3094,928,1,1,608,2,2021,460 W 42nd St Ph 1A, New York,NY,10036
+"156-14 59th Ave, Flushing, NY 11355",For Sale,Multi-Family,"1,999,999",1818,928,6,4,"1,100",1,2021,156-14 59th Ave, Flushing,NY,11355
+"116 Pinehurst Ave Apt B52, New York, NY 10033",For Sale,Co-op,"539,000",1818,1415,1,1,No Info,1,1925,116 Pinehurst Ave Apt B52, New York,NY,10033
+"270 Pacific Ave, Staten Island, NY 10312",For Sale,Single Family,"669,000",540,1415,3,2,"1,240",1,1955,270 Pacific Ave, Staten Island,NY,10312
+"204 Greenwood Ave, Brooklyn, NY 11218",For Sale,Multi-Family,"1,749,000",625,1415,3,3,"2,800",1,1925,204 Greenwood Ave, Brooklyn,NY,11218
+"150-48 76th Rd, Kew Gardens Hills, NY 11367",For Sale,Townhouse,"799,000",448,1415,3,2,"1,782",1,1955,150-48 76th Rd, Kew Gardens Hills,NY,11367
+"543 76th St, Brooklyn, NY 11209",For Sale,Multi-Family,"1,395,000",448,1415,4,3,No Info,1,1920,543 76th St, Brooklyn,NY,11209
+"215 W 75th St Apt 6F, New York, NY 10023",For Sale,Co-op,"925,000",448,1911,1,1,No Info,1,1924,215 W 75th St Apt 6F, New York,NY,10023
+"415 E 52nd St Apt 7FC, New York, NY 10022",For Sale,Co-op,"595,000",448,1995,1,1,No Info,1,1956,415 E 52nd St Apt 7FC, New York,NY,10022
+"880 5th Ave Unit 9GH, New York, NY 10021",For Sale,Co-op,"5,695,000",448,6391,3,5,No Info,1,1948,880 5th Ave Unit 9GH, New York,NY,10021
+"107 W 25th St Apt 2E, New York, NY 10001",For Sale,Co-op,"1,595,000",448,2209,2,1,No Info,1,1905,107 W 25th St Apt 2E, New York,NY,10001
+"99-40 63 Rd Unit 14V, Rego Park, NY 11374",For Sale,Co-op,"459,000",448,1281,3,1,No Info,1,1905,99-40 63 Rd Unit 14V, Rego Park,NY,11374
+"310 W 56th St Apt 12E, Manhattan, NY 10019",For Sale,No Info,"999,000",No Info,No Info,No Info,1,550,No Info,No Info,310 W 56th St Apt 12E, Manhattan,NY,10019
+"87 Barrow St Unit B6H, New York, NY 10014",For Sale,Co-op,"800,000",448,849,1,1,No Info,1,1926,87 Barrow St Unit B6H, New York,NY,10014
+"135 Prospect Park SW Apt F15, Brooklyn, NY 11218",For Sale,Co-op,"1,350,000",448,773,2,1,No Info,1,1926,135 Prospect Park SW Apt F15, Brooklyn,NY,11218
+"360 Furman St Apt 911, New York, NY 11201",For Sale,Condo,"1,275,000",1156,775,1,1,"1,103",1,1926,360 Furman St Apt 911, New York,NY,11201
+"240 W 23rd St Apt 3B, New York, NY 10011",For Sale,Co-op,"1,750,000",1156,2848,2,2,No Info,1,1920,240 W 23rd St Apt 3B, New York,NY,10011
+"400 E 85th St Apt 5A, New York, NY 10028",For Sale,Co-op,"630,000",1156,1167,1,1,No Info,1,1920,400 E 85th St Apt 5A, New York,NY,10028
+"12 Bosworth St, Staten Island, NY 10310",For Sale,Single Family,"599,000",340,1167,3,2,"1,760",1,1986,12 Bosworth St, Staten Island,NY,10310
+"734 Jewett Ave, Staten Island, NY 10314",For Sale,Single Family,"650,000",351,1167,3,2,"1,850",1,1905,734 Jewett Ave, Staten Island,NY,10314
+"400 Maryland Ave Apt 2B, Staten Island, NY 10305",For Sale,Co-op,"275,000",275,1167,1,1,"1,000",1,1947,400 Maryland Ave Apt 2B, Staten Island,NY,10305
+"220 E 65th St Apt 15N, Manhattan, NY 10065",For Sale,Condo,"1,280,000",1515,1143,2,2,845,1,1978,220 E 65th St Apt 15N, Manhattan,NY,10065
+"141 Weed Ave, Staten Island, NY 10306",For Sale,Single Family,"699,900",371,1143,2,1,"1,886",1,1985,141 Weed Ave, Staten Island,NY,10306
+"119-16 Poppenhusen Ave, College Point, NY 11356",For Sale,Single Family,"749,000",371,1143,3,1,No Info,1,1920,119-16 Poppenhusen Ave, College Point,NY,11356
+"24 5th Ave Apt 1418, New York, NY 10011",For Sale,Co-op,"399,000",371,1008,No Info,1,No Info,1,1926,24 5th Ave Apt 1418, New York,NY,10011
+"382 Eastern Pkwy Apt 1D, Brooklyn, NY 11225",For Sale,Condo,"485,000",746,444,1,1,650,1,1925,382 Eastern Pkwy Apt 1D, Brooklyn,NY,11225
+"79-35 68th Ave, Middle Village, NY 11379",For Sale,Multi-Family,"950,888",746,444,6,2,No Info,1,1925,79-35 68th Ave, Middle Village,NY,11379
+"71-02 35th Ave, Jackson Heights, NY 11372",For Sale,Multi-Family,"2,199,000",746,444,6,2,No Info,1,1930,71-02 35th Ave, Jackson Heights,NY,11372
+"10 E 70th St Apt 9D, New York, NY 10021",For Sale,Co-op,"1,950,000",746,5079,2,2,No Info,1,1962,10 E 70th St Apt 9D, New York,NY,10021
+"386A Chauncey St, Brooklyn, NY 11233",For Sale,Multi-Family,"975,000",508,5079,6,3,"1,920",1,1995,386A Chauncey St, Brooklyn,NY,11233
+"160-15 122nd Ave, Queens, NY 11434",For Sale,Multi-Family,"989,000",508,5079,6,2,No Info,1,1995,160-15 122nd Ave, Queens,NY,11434
+"151-09 20th Rd, Whitestone, NY 11357",For Sale,Single Family,"948,000",611,5079,3,1,"1,552",1,1930,151-09 20th Rd, Whitestone,NY,11357
+"300 E 59th St Apt 907, New York, NY 10022",For Sale,Co-op,"899,000",611,2047,2,1,No Info,1,1974,300 E 59th St Apt 907, New York,NY,10022
+"1981 Rockaway Pkwy, Brooklyn, NY 11236",For Sale,Multi-Family,"599,000",832,2047,1,2,720,1,1910,1981 Rockaway Pkwy, Brooklyn,NY,11236
+"400 E 85th St Apt 8C, Manhattan, NY 10028",For Sale,Co-op,"669,000",832,1327,1,1,No Info,1,1962,400 E 85th St Apt 8C, Manhattan,NY,10028
+"444 E 86th St Apt 30D, New York, NY 10028",For Sale,Co-op,"670,000",832,1271,1,1,No Info,1,1974,444 E 86th St Apt 30D, New York,NY,10028
+"16 W 74th St Apt 7, Manhattan, NY 10023",For Sale,Co-op,"895,000",832,1567,1,1,No Info,1,1900,16 W 74th St Apt 7, Manhattan,NY,10023
+"2675 E 7th St Apt 2B, Brooklyn, NY 11235",For Sale,Co-op,"269,000",336,602,1,1,800,1,1900,2675 E 7th St Apt 2B, Brooklyn,NY,11235
+"415 Argyle Rd Apt 4D, New York, NY 11218",For Sale,Co-op,"450,000",336,600,1,1,No Info,1,1963,415 Argyle Rd Apt 4D, New York,NY,11218
+"338 101st St Apt 32D, Brooklyn, NY 11209",For Sale,Co-op,"349,000",336,600,1,1,No Info,1,1963,338 101st St Apt 32D, Brooklyn,NY,11209
+"1855 E 12th St Apt 5N, Brooklyn, NY 11229",For Sale,Co-op,"230,000",411,415,No Info,1,560,1,1963,1855 E 12th St Apt 5N, Brooklyn,NY,11229
+"68 Moffat St, Brooklyn, NY 11207",For Sale,Multi-Family,"900,000",411,415,9,3,No Info,1,1899,68 Moffat St, Brooklyn,NY,11207
+"965 Kent Ave Apt E1, Brooklyn, NY 11205",For Sale,Condo,"899,000",614,433,2,1,"1,465",1,2003,965 Kent Ave Apt E1, Brooklyn,NY,11205
+"220 Riverside Blvd Apt 4R, New York, NY 10069",For Sale,Condo,"835,000",1193,851,1,1,700,1,2001,220 Riverside Blvd Apt 4R, New York,NY,10069
+"155 W 20th St Apt 4C, New York, NY 10011",For Sale,Co-op,"650,000",1368,959,No Info,1,475,1,1938,155 W 20th St Apt 4C, New York,NY,10011
+"234 E 14th St Apt 5A, New York, NY 10003",For Sale,Co-op,"635,000",977,988,1,1,650,1,1920,234 E 14th St Apt 5A, New York,NY,10003
+"23 E 10th St Apt 807, Manhattan, NY 10003",For Sale,Co-op,"1,350,000",977,2233,1,1,No Info,1,1882,23 E 10th St Apt 807, Manhattan,NY,10003
+"22 Warren St Apt 5, Manhattan, NY 10007",For Sale,Condo,"3,250,000",1625,1078,3,2,"2,000",1,1915,22 Warren St Apt 5, Manhattan,NY,10007
+"154 Lafayette Ave Unit Garden, Brooklyn, NY 11238",For Sale,Co-op,"1,750,000",1625,801,2,1,No Info,1,1900,154 Lafayette Ave Unit Garden, Brooklyn,NY,11238
+"251 7th St Apt 3B, New York, NY 11215",For Sale,Condo,"715,000",1625,547,1,1,No Info,1,2008,251 7th St Apt 3B, New York,NY,11215
+"1 Grand Army Plz Apt 2B, Brooklyn, NY 11238",For Sale,Condo,"1,800,000",1506,1608,2,1,"1,195",1,2008,1 Grand Army Plz Apt 2B, Brooklyn,NY,11238
+"20 E 35th St Apt 10E, New York, NY 10016",For Sale,Co-op,"799,000",1506,1787,1,1,No Info,1,1937,20 E 35th St Apt 10E, New York,NY,10016
+"957 Pacific St Apt 301, Brooklyn, NY 11238",For Sale,Condo,"800,000",1070,468,1,1,748,1,2006,957 Pacific St Apt 301, Brooklyn,NY,11238
+"38 77th St, Brooklyn, NY 11209",For Sale,Single Family,"1,199,000",715,468,3,2,"1,676",1,1925,38 77th St, Brooklyn,NY,11209
+"7302 Bay Pkwy, Brooklyn, NY 11204",For Sale,Multi-Family,"3,999,000",1613,468,6,3,"2,480",1,1925,7302 Bay Pkwy, Brooklyn,NY,11204
+"1753 E 12th St Apt 3B, Brooklyn, NY 11229",For Sale,Condo,"539,000",818,380,1,1,659,1,2016,1753 E 12th St Apt 3B, Brooklyn,NY,11229
+"165 W End Ave Apt 19J, New York, NY 10023",For Sale,Co-op,"835,000",818,1550,1,1,No Info,1,1959,165 W End Ave Apt 19J, New York,NY,10023
+"40 Ocean Pkwy Apt 3D, Brooklyn, NY 11218",For Sale,Co-op,"975,000",786,862,2,1,"1,240",1,1959,40 Ocean Pkwy Apt 3D, Brooklyn,NY,11218
+"300 W 122nd St Apt 8L, New York, NY 10027",For Sale,Condo,"870,000",1255,640,1,1,693,1,2020,300 W 122nd St Apt 8L, New York,NY,10027
+"1 Clinton St Apt 7E, Brooklyn, NY 11201",For Sale,Condo,"2,500,000",1565,1400,2,2,"1,597",1,2020,1 Clinton St Apt 7E, Brooklyn,NY,11201
+"321 E 48th St Apt 10E, New York, NY 10017",For Sale,Condo,"429,000",1565,679,No Info,1,No Info,1,1962,321 E 48th St Apt 10E, New York,NY,10017
+"82-39 268 St Unit 8239, Floral Park, NY 11004",For Sale,Co-op,"299,999",1565,872,2,1,No Info,1,1950,82-39 268 St Unit 8239, Floral Park,NY,11004
+"413 Westervelt Ave, Staten Island, NY 10301",For Sale,Multi-Family,"1,999,000",694,872,7,5,"2,880",1,1882,413 Westervelt Ave, Staten Island,NY,10301
+"227 Malone Ave, Staten Island, NY 10306",For Sale,Single Family,"579,900",388,872,3,2,"1,494",1,1970,227 Malone Ave, Staten Island,NY,10306
+"76-12 Ditmars Blvd Unit C2, East Elmhurst, NY 11370",For Sale,Condo,"419,000",665,459,1,1,630,1,1941,76-12 Ditmars Blvd Unit C2, East Elmhurst,NY,11370
+"33-43 14th St Unit 2D, Queens, NY 11106",For Sale,Co-op,"465,000",665,853,2,1,No Info,1,1958,33-43 14th St Unit 2D, Queens,NY,11106
+"33-65 14th St Unit 12B, Queens, NY 11106",For Sale,Co-op,"515,000",665,859,2,1,No Info,1,1958,33-65 14th St Unit 12B, Queens,NY,11106
+"443 Greenwich St Ph H, Manhattan, NY 10013",For Sale,Condo,"49,500,000",5557,18360,6,6,"8,908",1,1882,443 Greenwich St Ph H, Manhattan,NY,10013
+"60-39 59th Ave, Maspeth, NY 11378",For Sale,Single Family,"835,000",654,18360,3,2,"1,277",1,1957,60-39 59th Ave, Maspeth,NY,11378
+"107-16 37th Ave Unit 4B, Corona, NY 11368",For Sale,Condo,"499,000",568,373,2,1,878,1,2011,107-16 37th Ave Unit 4B, Corona,NY,11368
+"34-21 78 St Unit 3G, Jackson Heights, NY 11372",For Sale,Co-op,"330,000",568,858,1,1,No Info,1,1939,34-21 78 St Unit 3G, Jackson Heights,NY,11372
+"1655 Flatbush Ave Apt C1203, Brooklyn, NY 11210",For Sale,Co-op,"475,000",568,826,2,1,No Info,1,1964,1655 Flatbush Ave Apt C1203, Brooklyn,NY,11210
+"171 Perry Ave, Staten Island, NY 10314",For Sale,Single Family,"929,000",365,826,5,3,"2,548",1,1970,171 Perry Ave, Staten Island,NY,10314
+"190 Highland Ave, Staten Island, NY 10301",For Sale,Single Family,"790,000",549,826,3,1,"1,440",1,2003,190 Highland Ave, Staten Island,NY,10301
+"255-09 Iowa Rd, Little Neck, NY 11362",For Sale,Single Family,"949,000",549,826,3,1,No Info,1,1946,255-09 Iowa Rd, Little Neck,NY,11362
+"400 E 56th St Apt 20C, New York, NY 10022",For Sale,Co-op,"1,075,000",549,2036,2,1,No Info,1,1968,400 E 56th St Apt 20C, New York,NY,10022
+"57 Mace St, Staten Island, NY 10306",For Sale,Single Family,"2,400,000",632,2036,5,3,"3,800",2,1999,57 Mace St, Staten Island,NY,10306
+"193 Clinton Ave Apt 9D, Brooklyn, NY 11205",For Sale,Co-op,"695,000",869,970,2,1,800,2,1944,193 Clinton Ave Apt 9D, Brooklyn,NY,11205
+"5404 83rd St, Elmhurst, NY 11373",For Sale,Multi-Family,"1,188,000",869,970,5,3,No Info,2,1920,5404 83rd St, Elmhurst,NY,11373
+"33-44 Junction Blvd Unit 6M, Jackson Heights, NY 11372",For Sale,Co-op,"249,095",293,1205,1,1,850,2,1959,33-44 Junction Blvd Unit 6M, Jackson Heights,NY,11372
+"161 E 110th St Apt 6K, Manhattan, NY 10029",For Sale,Condo,"830,000",856,869,2,2,970,2,2008,161 E 110th St Apt 6K, Manhattan,NY,10029
+"1200 E 53rd St Apt 6N, Brooklyn, NY 11234",For Sale,Co-op,"269,000",276,996,2,1,975,2,2008,1200 E 53rd St Apt 6N, Brooklyn,NY,11234
+"520 E 72nd St Apt 2R, Manhattan, NY 10021",For Sale,Co-op,"400,000",276,802,No Info,1,No Info,2,1964,520 E 72nd St Apt 2R, Manhattan,NY,10021
+"36-21 210 St, Bayside, NY 11361",For Sale,Single Family,"1,258,000",276,802,4,1,No Info,1,1920,36-21 210 St, Bayside,NY,11361
+"1845 Adam Clayton Powell Jr Blvd Apt 5C, New York, NY 10026",For Sale,Condo,"2,295,000",973,1167,3,2,"2,359",1,1900,1845 Adam Clayton Powell Jr Blvd Apt 5C, New York,NY,10026
+"100 W 57th St Apt 2G, New York, NY 10019",For Sale,Co-op,"450,000",474,2200,1,1,950,1,1962,100 W 57th St Apt 2G, New York,NY,10019
+"301 S 4th St, New York, NY 11211",For Sale,Multi-Family,"3,000,000",474,2200,6,3,No Info,1,1962,301 S 4th St, New York,NY,11211
+"15 W 11th St Apt 6A, New York, NY 10011",For Sale,Co-op,"1,350,000",474,1594,1,1,No Info,1,1922,15 W 11th St Apt 6A, New York,NY,10011
+"2025 Broadway Apt 22H, New York, NY 10023",For Sale,Co-op,"725,000",474,1687,1,1,No Info,1,1977,2025 Broadway Apt 22H, New York,NY,10023
+"160 Imlay St Apt 4B1, New York, NY 11231",For Sale,Condo,"2,500,000",908,2275,3,3,"2,753",1,1913,160 Imlay St Apt 4B1, New York,NY,11231
+"125 Prospect Park W Apt 4C, New York, NY 11215",For Sale,Co-op,"1,175,000",908,1286,2,1,No Info,1,1913,125 Prospect Park W Apt 4C, New York,NY,11215
+"11 E 86th St Unit 2A, Manhattan, NY 10028",For Sale,Co-op,"3,000,000",908,3801,3,3,No Info,1,1960,11 E 86th St Unit 2A, Manhattan,NY,10028
+"147 Hope St Apt 4F, New York, NY 11211",For Sale,Condo,"950,000",1349,316,1,1,704,1,1960,147 Hope St Apt 4F, New York,NY,11211
+"613 Baltic St Apt 3E, Brooklyn, NY 11217",For Sale,Condo,"2,195,000",1619,1344,3,3,"1,356",1,2017,613 Baltic St Apt 3E, Brooklyn,NY,11217
+"8797 19th Ave, Brooklyn, NY 11214",For Sale,Multi-Family,"1,800,000",545,1344,7,4,"3,300",1,2017,8797 19th Ave, Brooklyn,NY,11214
+"315 E 12th St Apt A, New York, NY 10003",For Sale,Co-op,"995,000",545,1243,2,1,No Info,1,2017,315 E 12th St Apt A, New York,NY,10003
+"345 7th Ave Unit 1, Brooklyn, NY 11215",For Sale,Townhouse,"2,499,000",1382,1243,5,2,"1,808",1,2017,345 7th Ave Unit 1, Brooklyn,NY,11215
+"301 W 53rd St Unit 19CD, New York, NY 10019",For Sale,Condo,"2,499,999",1515,1510,3,2,"1,650",1,1980,301 W 53rd St Unit 19CD, New York,NY,10019
+"10 Lenox Ave Unit 7B, Manhattan, NY 10026",For Sale,Condo,"2,249,000",1366,1483,3,2,"1,646",1,2019,10 Lenox Ave Unit 7B, Manhattan,NY,10026
+"302 E 96th St Apt 1503, Manhattan, NY 10128",For Sale,Condo,"2,315,000",1634,1616,2,3,"1,417",1,2018,302 E 96th St Apt 1503, Manhattan,NY,10128
+"300 W 122nd St Apt 12E, New York, NY 10027",For Sale,Condo,"1,420,000",1298,1011,2,2,"1,094",1,2020,300 W 122nd St Apt 12E, New York,NY,10027
+"302 E 96th St Ph 3S, Manhattan, NY 10128",For Sale,Condo,"2,000,000",1970,1165,2,2,"1,015",1,2018,302 E 96th St Ph 3S, Manhattan,NY,10128
+"115-18 123rd St, Jamaica, NY 11420",For Sale,Single Family,"450,000",1970,1165,2,1,No Info,1,1920,115-18 123rd St, Jamaica,NY,11420
+"148-19 Sutter Ave, South Ozone Park, NY 11436",For Sale,Single Family,"599,000",1970,1165,3,3,No Info,1,1925,148-19 Sutter Ave, South Ozone Park,NY,11436
+"94-38 113 St, Richmond Hill South, NY 11419",For Sale,Single Family,"599,000",1970,1165,3,1,No Info,1,1901,94-38 113 St, Richmond Hill South,NY,11419
+"738 E 242nd St, Bronx, NY 10470",For Sale,Single Family,"565,000",339,1165,3,1,"1,665",1,1960,738 E 242nd St, Bronx,NY,10470
+"86-10 231st St, Queens Village, NY 11427",For Sale,Co-op,"249,000",339,677,2,1,No Info,1,1955,86-10 231st St, Queens Village,NY,11427
+"55 Wall St Apt 635, New York, NY 10005",For Sale,Condo,"550,000",952,1245,No Info,1,578,1,1842,55 Wall St Apt 635, New York,NY,10005
+"99-60 63rd Rd Unit 1R, Rego Park, NY 11374",For Sale,Condo,"270,000",952,675,1,1,No Info,1,1952,99-60 63rd Rd Unit 1R, Rego Park,NY,11374
+"35-05 72nd St Unit 2A, Jackson Heights, NY 11372",For Sale,Co-op,"519,000",519,1121,2,1,"1,000",1,1936,35-05 72nd St Unit 2A, Jackson Heights,NY,11372
+"30-23 86th St, East Elmhurst, NY 11369",For Sale,Single Family,"850,000",519,1121,4,1,No Info,1,1945,30-23 86th St, East Elmhurst,NY,11369
+"426 Harold Ave, Staten Island, NY 10312",For Sale,Single Family,"974,900",508,1121,4,3,"1,920",1,1996,426 Harold Ave, Staten Island,NY,10312
+"110 71st Rd # C, New York, NY 11375",For Sale,Co-op,"389,000",508,846,1,1,No Info,1,1957,110 71st Rd # C, New York,NY,11375
+"136-05 Sanford Ave Unit 6P, Flushing, NY 11355",For Sale,Co-op,"308,000",508,664,1,1,No Info,1,1929,136-05 Sanford Ave Unit 6P, Flushing,NY,11355
+"415 E 52nd St Apt 9FB, New York, NY 10022",For Sale,Co-op,"525,000",508,1338,No Info,1,No Info,1,1956,415 E 52nd St Apt 9FB, New York,NY,10022
+"3718 Laurel Ave, Brooklyn, NY 11224",For Sale,Multi-Family,"979,000",546,298,4,3,"1,792",1,1920,3718 Laurel Ave, Brooklyn,NY,11224
+"2311 Gerritsen Ave Apt 3C, Brooklyn, NY 11229",For Sale,Condo,"589,000",557,258,3,2,"1,057",1,2003,2311 Gerritsen Ave Apt 3C, Brooklyn,NY,11229
+"3818 Laurel Ave, Brooklyn, NY 11224",For Sale,Multi-Family,"959,000",422,371,6,3,"2,272",1,1960,3818 Laurel Ave, Brooklyn,NY,11224
+"127 Holly St, Staten Island, NY 10304",For Sale,Single Family,"1,395,000",664,371,4,3,"2,100",1,1999,127 Holly St, Staten Island,NY,10304
+"3604 Avenue S, Brooklyn, NY 11234",For Sale,Multi-Family,"795,000",598,371,3,2,"1,330",1,1940,3604 Avenue S, Brooklyn,NY,11234
+"57-39 255th St, Little Neck, NY 11362",For Sale,Single Family,"1,098,888",825,371,4,2,"1,332",1,1950,57-39 255th St, Little Neck,NY,11362
+"2650 Ocean Pkwy Apt 4K, Brooklyn, NY 11235",For Sale,Co-op,"259,000",447,562,No Info,1,580,1,1950,2650 Ocean Pkwy Apt 4K, Brooklyn,NY,11235
+"94-31 59th Ave Unit 6G, Elmhurst, NY 11373",For Sale,Co-op,"399,900",410,716,2,1,975,1,1960,94-31 59th Ave Unit 6G, Elmhurst,NY,11373
+"25-39 Boody St, Woodside, NY 11377",For Sale,Multi-Family,"1,280,000",410,716,5,3,No Info,1,1960,25-39 Boody St, Woodside,NY,11377
+"201 W 21st St Apt 14K, New York, NY 10011",For Sale,Co-op,"495,000",410,1193,No Info,1,No Info,1,1961,201 W 21st St Apt 14K, New York,NY,10011
+"114 E 72nd St Units 19 & 20C, New York, NY 10021",For Sale,Co-op,"4,300,000",410,6479,3,2,No Info,1,1963,114 E 72nd St Units 19 & 20C, New York,NY,10021
+"1070 Park Ave Unit 1D, Manhattan, NY 10128",For Sale,Co-op,"485,000",441,6107,2,1,"1,100",1,1928,1070 Park Ave Unit 1D, Manhattan,NY,10128
+"49 Chambers St Apt 15H, New York, NY 10007",For Sale,Condo,"2,600,000",1782,1229,2,2,"1,459",1,1910,49 Chambers St Apt 15H, New York,NY,10007
+"497 Greenwich St Unit 6B, Manhattan, NY 10013",For Sale,Condo,"2,495,000",1502,1340,2,1,"1,661",1,1915,497 Greenwich St Unit 6B, Manhattan,NY,10013
+"201 E 80th St Apt 5I, Manhattan, NY 10075",For Sale,Condo,"2,425,000",1423,1765,2,2,"1,704",1,1996,201 E 80th St Apt 5I, Manhattan,NY,10075
+"25 E 83rd St Unit 7 /D, Manhattan, NY 10028",For Sale,Co-op,"1,475,000",1392,2930,1,2,"1,060",1,1937,25 E 83rd St Unit 7 /D, Manhattan,NY,10028
+"8873 18th Ave, Brooklyn, NY 11214",For Sale,Multi-Family,"1,350,000",682,2930,4,2,"1,980",1,1950,8873 18th Ave, Brooklyn,NY,11214
+"320 E 57th St Unit 3BC, New York, NY 10022",For Sale,Co-op,"1,990,000",926,4541,3,3,"2,150",1,1927,320 E 57th St Unit 3BC, New York,NY,10022
+"446 W 23rd St Unit E, New York, NY 10011",For Sale,Co-op,"1,995,000",926,1806,2,1,No Info,1,1905,446 W 23rd St Unit E, New York,NY,10011
+"34 Plaza St E Apt 1006, Brooklyn, NY 11238",For Sale,Co-op,"697,500",900,1289,1,1,775,1,1957,34 Plaza St E Apt 1006, Brooklyn,NY,11238
+"350 W 23rd St Ph B, New York, NY 10011",For Sale,Condo,"5,750,000",2263,2068,3,2,"2,541",1,2010,350 W 23rd St Ph B, New York,NY,10011
+"108 W 78th St Apt 3, New York, NY 10024",For Sale,Co-op,"1,800,000",2263,2177,3,2,No Info,1,1900,108 W 78th St Apt 3, New York,NY,10024
+"305 Second Ave Unit 539, New York, NY 10003",For Sale,Condo,"1,485,000",1654,392,1,1,898,1,1899,305 Second Ave Unit 539, New York,NY,10003
+"1165 Fifth Ave Unit 6B, New York, NY 10029",For Sale,Co-op,"3,900,000",1654,6321,4,3,No Info,1,1926,1165 Fifth Ave Unit 6B, New York,NY,10029
+"6712 12th Ave, Brooklyn, NY 11219",For Sale,Multi-Family,"1,688,000",844,6321,8,2,"2,000",1,1930,6712 12th Ave, Brooklyn,NY,11219
+"1913 67th St, Brooklyn, NY 11204",For Sale,Multi-Family,"1,699,000",974,6321,6,2,"1,744",1,1925,1913 67th St, Brooklyn,NY,11204
+"1430 Ovington Ave, Brooklyn, NY 11219",For Sale,Multi-Family,"1,680,000",974,6321,No Info,3,No Info,1,1925,1430 Ovington Ave, Brooklyn,NY,11219
+"440 E 56th St Apt 10F, New York, NY 10022",For Sale,Co-op,"1,250,000",1389,1800,1,1,900,1,1955,440 E 56th St Apt 10F, New York,NY,10022
+"115 E 9th St Apt 5H, New York, NY 10003",For Sale,Co-op,"1,645,000",1495,1832,2,2,"1,100",1,1955,115 E 9th St Apt 5H, New York,NY,10003
+"1 Hazel Pl Unit 1, Bronx, NY 10465",For Sale,Co-op,"429,000",505,430,2,2,850,1,1930,1 Hazel Pl Unit 1, Bronx,NY,10465
+"133 Rockne St, Richmond Hill, NY 10314",For Sale,Multi-Family,"759,000",316,430,4,1,"2,400",1,1984,133 Rockne St, Richmond Hill,NY,10314
+"21 Pell Pl, Bronx, NY 10464",For Sale,Single Family,"539,000",431,430,2,1,"1,252",1,1925,21 Pell Pl, Bronx,NY,10464
+"3850 Hudson Manor Ter Apt 5CW, Bronx, NY 10463",For Sale,Co-op,"569,000",379,1785,3,2,"1,500",1,1954,3850 Hudson Manor Ter Apt 5CW, Bronx,NY,10463
+"29-50 137th St Unit Lf, Flushing, NY 11354",For Sale,Co-op,"329,000",379,835,2,1,No Info,1,1960,29-50 137th St Unit Lf, Flushing,NY,11354
+"1719 Mahan Ave, Bronx, NY 10461",For Sale,Single Family,"569,000",539,835,3,1,"1,056",1,1925,1719 Mahan Ave, Bronx,NY,10461
+"2026 Story Ave, Bronx, NY 10473",For Sale,Single Family,"650,000",349,835,3,3,"1,860",1,1987,2026 Story Ave, Bronx,NY,10473
+"27110 Grand Central Pkwy Apt 32T, Floral Park, NY 11005",For Sale,Co-op,"319,000",384,1208,1,1,830,1,1975,27110 Grand Central Pkwy Apt 32T, Floral Park,NY,11005
+"5800 Arlington Ave Apt 6O, Bronx, NY 10471",For Sale,Co-op,"210,000",420,677,No Info,1,500,1,1966,5800 Arlington Ave Apt 6O, Bronx,NY,10471
+"209-34 111th Ave, Queens Village, NY 11429",For Sale,Single Family,"690,000",420,677,4,1,No Info,4,1925,209-34 111th Ave, Queens Village,NY,11429
+"1648 E 93rd St, Brooklyn, NY 11236",For Sale,Multi-Family,"999,000",396,677,5,2,"2,520",4,1965,1648 E 93rd St, Brooklyn,NY,11236
+"160-23 83rd St, Howard Beach, NY 11414",For Sale,Single Family,"849,000",396,677,5,2,No Info,4,1965,160-23 83rd St, Howard Beach,NY,11414
+"811 Walton Ave Apt E16, New York, NY 10451",For Sale,Co-op,"329,000",396,799,1,1,No Info,4,1927,811 Walton Ave Apt E16, New York,NY,10451
+"737 Park Ave Apt 7A, New York, NY 10021",For Sale,Condo,"7,450,000",3304,2781,3,3,"2,255",4,1940,737 Park Ave Apt 7A, New York,NY,10021
+"5700 Arlington Ave Apt 9X, New York, NY 10471",For Sale,Co-op,"400,000",3304,983,2,1,No Info,4,1961,5700 Arlington Ave Apt 9X, New York,NY,10471
+"25 Oliver St Apt 5E, Brooklyn, NY 11209",For Sale,Co-op,"545,000",495,812,2,1,"1,100",4,1951,25 Oliver St Apt 5E, Brooklyn,NY,11209
+"167 Havemeyer St Apt 4, Brooklyn, NY 11211",For Sale,Co-op,"349,000",495,635,2,1,No Info,4,1907,167 Havemeyer St Apt 4, Brooklyn,NY,11211
+"17 Erwin Ct, Staten Island, NY 10306",For Sale,Single Family,"599,000",362,635,3,3,"1,655",4,2001,17 Erwin Ct, Staten Island,NY,10306
+"163-23 89th St, Howard Beach, NY 11414",For Sale,Single Family,"879,000",362,635,4,3,No Info,4,1965,163-23 89th St, Howard Beach,NY,11414
+"64-28 83rd Pl, Middle Village, NY 11379",For Sale,Single Family,"868,000",362,635,3,1,No Info,1,1930,64-28 83rd Pl, Middle Village,NY,11379
+"41 Dewey Ave, Staten Island, NY 10308",For Sale,Single Family,"859,888",366,635,4,3,"2,350",1,1965,41 Dewey Ave, Staten Island,NY,10308
+"25-64 34th St, Astoria, NY 11103",For Sale,Multi-Family,"1,750,000",366,635,6,3,No Info,2,1930,25-64 34th St, Astoria,NY,11103
+"649 Minnieford Ave, Bronx, NY 10464",For Sale,Townhouse,"675,000",331,635,3,2,"2,040",1,1999,649 Minnieford Ave, Bronx,NY,10464
+"6242 60th Ave, Maspeth, NY 11378",For Sale,Multi-Family,"1,050,000",670,635,4,2,"1,568",2,1920,6242 60th Ave, Maspeth,NY,11378
+"421 W 57th St Apt 4A, New York, NY 10019",For Sale,Co-op,"600,000",670,1091,1,1,No Info,2,1940,421 W 57th St Apt 4A, New York,NY,10019
+"630 Macon St, Bed Stuy, NY 11233",For Sale,Multi-Family,"2,500,000",670,1091,6,3,No Info,2,1901,630 Macon St, Bed Stuy,NY,11233
+"8308 14th Ave, Brooklyn, NY 11228",For Sale,Single Family,"1,399,000",530,1091,3,2,"2,640",2,1935,8308 14th Ave, Brooklyn,NY,11228
+"1010 5th Ave Unit 13CDE, New York, NY 10028",For Sale,Co-op,"11,700,000",530,14829,5,5,No Info,2,1928,1010 5th Ave Unit 13CDE, New York,NY,10028
+"10 W 66th St Apt 4H, New York, NY 10023",For Sale,Co-op,"699,000",530,1008,No Info,1,No Info,2,1969,10 W 66th St Apt 4H, New York,NY,10023
+"317 W 54th St Apt 2A, New York, NY 10019",For Sale,Co-op,"729,000",530,1300,1,1,No Info,2,1980,317 W 54th St Apt 2A, New York,NY,10019
+"35 W 78th St Unit B34, New York, NY 10024",For Sale,Co-op,"710,000",530,1054,2,1,No Info,2,1937,35 W 78th St Unit B34, New York,NY,10024
+"43-67 170th St, Flushing, NY 11358",For Sale,Single Family,"978,888",576,1054,3,2,"1,700",2,1920,43-67 170th St, Flushing,NY,11358
+"961 Washington Ave Apt 2E, Brooklyn, NY 11225",For Sale,Condo,"495,000",723,674,1,1,685,2,1920,961 Washington Ave Apt 2E, Brooklyn,NY,11225
+"67-31 182nd St, Fresh Meadows, NY 11365",For Sale,Single Family,"1,129,000",782,674,4,2,"1,443",1,1945,67-31 182nd St, Fresh Meadows,NY,11365
+"929 Park Ave Unit 10C, New York, NY 10028",For Sale,Co-op,"1,895,000",782,3904,2,2,No Info,1,1912,929 Park Ave Unit 10C, New York,NY,10028
+"103 131st St, Jamaica, NY 11419",For Sale,Single Family,"695,000",782,3904,3,1,No Info,1,1912,103 131st St, Jamaica,NY,11419
+"130 W 30th St Apt 8C, New York, NY 10001",For Sale,Condo,"2,350,000",1139,1882,3,3,"2,064",1,2003,130 W 30th St Apt 8C, New York,NY,10001
+"2717 Haring St, Brooklyn, NY 11235",For Sale,Multi-Family,"1,398,000",588,1882,5,2,"2,376",1,1965,2717 Haring St, Brooklyn,NY,11235
+"1733 W 5th St, Brooklyn, NY 11223",For Sale,Multi-Family,"1,798,000",661,1882,6,4,"2,720",1,1965,1733 W 5th St, Brooklyn,NY,11223
+"2518 Avenue N, New York, NY 11210",For Sale,Townhouse,"750,000",480,1882,3,1,"1,564",1,1965,2518 Avenue N, New York,NY,11210
+"238 Ovington Ave, Brooklyn, NY 11209",For Sale,Townhouse,"1,800,000",602,1882,4,3,"2,988",1,1965,238 Ovington Ave, Brooklyn,NY,11209
+"392 Central Park W Apt 18M, New York, NY 10025",For Sale,Condo,"1,295,000",1533,592,1,1,845,1,1960,392 Central Park W Apt 18M, New York,NY,10025
+"12214 S Elizabeth St, Chicago, IL 60643",For Sale,Single Family,"129,900",134,592,3,1,966,2,1958,12214 S Elizabeth St, Chicago,IL,60643
+"345 N Canal St Apt 902, Chicago, IL 60606",For Sale,Condo,"329,900",264,744,2,1,"1,250",2,1900,345 N Canal St Apt 902, Chicago,IL,60606
+"8952 S Aberdeen St, Chicago, IL 60620",For Sale,Multi-Family,"175,000",264,744,8,4,No Info,2,1916,8952 S Aberdeen St, Chicago,IL,60620
+"815 E Drexel Sq Unit 2, Chicago, IL 60615",For Sale,Condo,"309,000",155,285,3,2,"2,000",2,1928,815 E Drexel Sq Unit 2, Chicago,IL,60615
+"5031 S Laramie Ave, Chicago, IL 60638",For Sale,Single Family,"275,000",151,285,4,2,"1,824",2,1952,5031 S Laramie Ave, Chicago,IL,60638
+"10800 S Longwood Dr, Chicago, IL 60643",For Sale,Single Family,"300,000",162,285,3,2,"1,856",1,1920,10800 S Longwood Dr, Chicago,IL,60643
+"1353 W Fargo Ave Apt 2E, Chicago, IL 60626",For Sale,Condo,"180,000",162,352,2,1,No Info,1,1950,1353 W Fargo Ave Apt 2E, Chicago,IL,60626
+"3337 W 61st Pl, Chicago, IL 60629",For Sale,Single Family,"259,900",138,352,3,2,"1,880",2,1951,3337 W 61st Pl, Chicago,IL,60629
+"6033 N Sheridan Rd Apt 15M, Chicago, IL 60660",For Sale,Condo,"185,000",166,502,1,1,"1,117",1,1972,6033 N Sheridan Rd Apt 15M, Chicago,IL,60660
+"10517 S Eggleston Ave, Chicago, IL 60628",For Sale,Single Family,"277,750",198,502,6,3,"1,400",1,1924,10517 S Eggleston Ave, Chicago,IL,60628
+"7423 N Sheridan Rd Apt 3W, Chicago, IL 60626",For Sale,No Info,"178,000",No Info,No Info,2,1,No Info,No Info,No Info,7423 N Sheridan Rd Apt 3W, Chicago,IL,60626
+"1131 W Lunt Ave Apt 106, Chicago, IL 60626",For Sale,Condo,"169,000",138,231,2,1,"1,228",1,1967,1131 W Lunt Ave Apt 106, Chicago,IL,60626
+"5354 S Kildare Ave, Chicago, IL 60632",For Sale,Single Family,"289,000",119,231,3,2,"2,426",3,1953,5354 S Kildare Ave, Chicago,IL,60632
+"6451 N Northwest Hwy Unit A2N, Chicago, IL 60631",For Sale,Condo,"212,000",177,229,2,1,"1,200",3,1979,6451 N Northwest Hwy Unit A2N, Chicago,IL,60631
+"10004 S Washtenaw Ave, Chicago, IL 60655",For Sale,Single Family,"225,000",224,229,2,1,"1,003",1,1955,10004 S Washtenaw Ave, Chicago,IL,60655
+"4700 W Deming Pl, Chicago, IL 60639",For Sale,Single Family,"399,900",200,229,5,3,"2,000",2,1921,4700 W Deming Pl, Chicago,IL,60639
+"4825 W Oakdale Ave, Chicago, IL 60641",For Sale,Multi-Family,"299,000",200,229,5,2,No Info,1,1925,4825 W Oakdale Ave, Chicago,IL,60641
+"3914 N Kedvale Ave Unit 1, Chicago, IL 60641",For Sale,Condo,"189,900",200,220,2,1,No Info,1,1930,3914 N Kedvale Ave Unit 1, Chicago,IL,60641
+"3648 W Berteau Ave Unit 1, Chicago, IL 60618",For Sale,Condo,"215,000",200,179,2,1,No Info,1,1930,3648 W Berteau Ave Unit 1, Chicago,IL,60618
+"2423 N Newland Ave, Chicago, IL 60707",For Sale,Single Family,"349,900",350,179,2,1,"1,000",1,1930,2423 N Newland Ave, Chicago,IL,60707
+"100 N Hermitage Ave Unit 808, Chicago, IL 60612",For Sale,Condo,"305,000",231,604,2,2,"1,318",2,2004,100 N Hermitage Ave Unit 808, Chicago,IL,60612
+"111 S Morgan St Apt 602, Chicago, IL 60607",For Sale,Condo,"425,000",231,609,2,2,No Info,1,2002,111 S Morgan St Apt 602, Chicago,IL,60607
+"3119 N Western Ave, Chicago, IL 60618",For Sale,Single Family,"596,999",497,609,2,2,"1,200",2,1920,3119 N Western Ave, Chicago,IL,60618
+"6730 N Campbell Ave, Chicago, IL 60645",For Sale,Multi-Family,"465,000",497,609,4,3,No Info,2,1925,6730 N Campbell Ave, Chicago,IL,60645
+"900 N Kingsbury St Apt 925, Chicago, IL 60610",For Sale,Condo,"399,999",497,944,2,2,No Info,1,1934,900 N Kingsbury St Apt 925, Chicago,IL,60610
+"2638 N Orchard St Apt 1F, Chicago, IL 60614",For Sale,Condo,"375,000",326,300,2,2,"1,150",1,1934,2638 N Orchard St Apt 1F, Chicago,IL,60614
+"2302 N Leavitt St Apt 3, Chicago, IL 60647",For Sale,Condo,"699,000",257,245,3,2,"2,725",1,1917,2302 N Leavitt St Apt 3, Chicago,IL,60647
+"2361 N California Ave Apt 2N, Chicago, IL 60647",For Sale,Condo,"250,000",257,242,1,1,No Info,1,1917,2361 N California Ave Apt 2N, Chicago,IL,60647
+"5623 N Wayne Ave Apt B3, Chicago, IL 60660",For Sale,Condo,"299,000",257,243,2,2,No Info,1,1920,5623 N Wayne Ave Apt B3, Chicago,IL,60660
+"2700 W Belmont Ave Unit 202, Chicago, IL 60618",For Sale,Condo,"338,000",262,285,2,2,"1,288",1,2003,2700 W Belmont Ave Unit 202, Chicago,IL,60618
+"843 W Adams St Apt 711, Chicago, IL 60607",For Sale,Condo,"615,000",262,600,2,2,No Info,1,2003,843 W Adams St Apt 711, Chicago,IL,60607
+"55 E Erie St Apt 3302, Chicago, IL 60611",For Sale,Condo,"725,000",515,884,2,2,"1,407",1,2004,55 E Erie St Apt 3302, Chicago,IL,60611
+"30 W Erie St Unit 602, Chicago, IL 60654",For Sale,Condo,"1,025,000",448,1515,3,2,"2,288",1,2007,30 W Erie St Unit 602, Chicago,IL,60654
+"4755 S Lavergne Ave, Chicago, IL 60638",For Sale,Single Family,"324,900",322,1515,5,2,"1,008",2,1958,4755 S Lavergne Ave, Chicago,IL,60638
+"1125 W Newport Ave Unit L, Chicago, IL 60657",For Sale,Townhome,"475,000",322,215,2,1,No Info,2,1997,1125 W Newport Ave Unit L, Chicago,IL,60657
+"1333 N Wolcott Ave Unit 2, Chicago, IL 60622",For Sale,Condo,"505,000",322,200,2,2,No Info,1,2005,1333 N Wolcott Ave Unit 2, Chicago,IL,60622
+"2243 N Lister Ave Apt 201, Chicago, IL 60614",For Sale,Condo,"399,000",275,200,3,2,"1,450",1,2005,2243 N Lister Ave Apt 201, Chicago,IL,60614
+"2817 N Clybourn Ave, Chicago, IL 60618",For Sale,Multi-Family,"976,000",275,200,6,3,No Info,2,1924,2817 N Clybourn Ave, Chicago,IL,60618
+"926 W Fullerton Ave Apt 2, Chicago, IL 60614",For Sale,Condo,"689,900",395,172,3,2,"1,747",2,2007,926 W Fullerton Ave Apt 2, Chicago,IL,60614
+"3032 N Seminary Ave Unit 1F, Chicago, IL 60657",For Sale,Condo,"299,000",395,22,2,1,No Info,2,2007,3032 N Seminary Ave Unit 1F, Chicago,IL,60657
+"1821 W Byron St, Chicago, IL 60613",For Sale,Single Family,"725,000",395,22,4,2,No Info,2,1900,1821 W Byron St, Chicago,IL,60613
+"1320 N Cleveland Ave Unit 3, Chicago, IL 60610",For Sale,Condo,"749,000",357,318,4,3,"2,100",1,1997,1320 N Cleveland Ave Unit 3, Chicago,IL,60610
+"8026 S Sacramento Ave, Chicago, IL 60652",For Sale,Single Family,"279,000",196,318,4,1,"1,427",2,1952,8026 S Sacramento Ave, Chicago,IL,60652
+"4424 S Indiana Ave Apt 3N, Chicago, IL 60653",For Sale,Condo,"255,000",94,256,3,2,"2,700",2,2004,4424 S Indiana Ave Apt 3N, Chicago,IL,60653
+"4426 W Jackson Blvd, Chicago, IL 60624",For Sale,Multi-Family,"321,000",94,256,7,3,No Info,2,1901,4426 W Jackson Blvd, Chicago,IL,60624
+"121 E 123rd St, Chicago, IL 60628",For Sale,Single Family,"99,000",84,256,3,1,"1,175",2,1924,121 E 123rd St, Chicago,IL,60628
+"2127 W Pierce Ave Apt 1B, Chicago, IL 60622",For Sale,Condo,"265,000",330,280,2,1,803,2,1927,2127 W Pierce Ave Apt 1B, Chicago,IL,60622
+"4045 W Crystal St, Chicago, IL 60651",For Sale,Single Family,"375,000",330,280,3,3,No Info,2,1999,4045 W Crystal St, Chicago,IL,60651
+"4647 W Addison St, Chicago, IL 60641",For Sale,Single Family,"280,000",197,280,4,1,"1,423",2,1922,4647 W Addison St, Chicago,IL,60641
+"4106 W Gladys Ave, Chicago, IL 60624",For Sale,Multi-Family,"449,000",197,280,7,3,No Info,2,1906,4106 W Gladys Ave, Chicago,IL,60624
+"2527 W Congress Pkwy, Chicago, IL 60612",For Sale,Multi-Family,"850,000",236,280,6,6,"3,600",2,2019,2527 W Congress Pkwy, Chicago,IL,60612
+"2108 W Erie St Apt 2W, Chicago, IL 60612",For Sale,Condo,"400,000",236,167,2,2,No Info,1,1999,2108 W Erie St Apt 2W, Chicago,IL,60612
+"844 N Marshfield Ave Unit 1F, Chicago, IL 60622",For Sale,Townhome,"499,000",236,229,3,2,No Info,1,1999,844 N Marshfield Ave Unit 1F, Chicago,IL,60622
+"5214 N Potawatomie St Unit 3E, Chicago, IL 60656",For Sale,Condo,"147,900",148,200,2,1,"1,000",1,1971,5214 N Potawatomie St Unit 3E, Chicago,IL,60656
+"2428 W Augusta Blvd Unit 3, Chicago, IL 60622",For Sale,Condo,"475,000",339,200,2,2,"1,400",1,2007,2428 W Augusta Blvd Unit 3, Chicago,IL,60622
+"1601 S Michigan Ave Apt 107, Chicago, IL 60616",For Sale,Condo,"340,000",241,618,2,2,"1,410",1,1925,1601 S Michigan Ave Apt 107, Chicago,IL,60616
+"2013 W Farragut Ave Unit 1, Chicago, IL 60625",For Sale,Condo,"239,900",241,380,2,1,No Info,1,1929,2013 W Farragut Ave Unit 1, Chicago,IL,60625
+"2851 N Oak Park Ave, Chicago, IL 60634",For Sale,Single Family,"339,900",228,380,4,2,"1,488",2,1947,2851 N Oak Park Ave, Chicago,IL,60634
+"6127 S Rutherford Ave, Chicago, IL 60638",For Sale,Single Family,"379,900",302,380,4,3,"1,260",3,1957,6127 S Rutherford Ave, Chicago,IL,60638
+"1857 N California Ave Unit 1, Chicago, IL 60647",For Sale,Condo,"699,000",241,380,4,3,"2,900",3,2019,1857 N California Ave Unit 1, Chicago,IL,60647
+"440 N Wabash Ave Apt 2905, Chicago, IL 60611",For Sale,Condo,"399,900",358,598,2,2,"1,118",1,1992,440 N Wabash Ave Apt 2905, Chicago,IL,60611
+"912 S Bell Ave, Chicago, IL 60612",For Sale,Multi-Family,"739,000",358,598,3,3,No Info,2,1883,912 S Bell Ave, Chicago,IL,60612
+"832 N Mozart St, Chicago, IL 60622",For Sale,Multi-Family,"450,000",358,598,4,3,No Info,2,1917,832 N Mozart St, Chicago,IL,60622
+"702 N Noble St, Chicago, IL 60642",For Sale,Multi-Family,"639,000",358,598,6,4,No Info,2,1890,702 N Noble St, Chicago,IL,60642
+"5304 N Mason Ave, Chicago, IL 60630",For Sale,Single Family,"414,900",207,598,5,2,"2,000",2,1930,5304 N Mason Ave, Chicago,IL,60630
+"5454 S Cornell Ave Apt 2W, Chicago, IL 60615",For Sale,Condo,"160,000",207,312,1,1,No Info,2,1919,5454 S Cornell Ave Apt 2W, Chicago,IL,60615
+"4911 N Wolcott Ave Apt 1B, Chicago, IL 60640",For Sale,Condo,"205,000",256,344,1,1,800,2,1940,4911 N Wolcott Ave Apt 1B, Chicago,IL,60640
+"1367 W Crystal St Unit 1, Chicago, IL 60642",For Sale,Condo,"524,900",219,241,4,3,"2,400",2,2003,1367 W Crystal St Unit 1, Chicago,IL,60642
+"30 E Huron St Apt 3110, Chicago, IL 60611",For Sale,Condo,"299,500",382,628,1,1,785,2,1980,30 E Huron St Apt 3110, Chicago,IL,60611
+"5919 W Eddy St, Chicago, IL 60634",For Sale,Single Family,"499,999",177,628,6,3,"2,823",2,1930,5919 W Eddy St, Chicago,IL,60634
+"2625 W Belmont Ave Unit 1, Chicago, IL 60618",For Sale,Condo,"449,900",177,224,3,3,No Info,1,2003,2625 W Belmont Ave Unit 1, Chicago,IL,60618
+"1144 W Schubert Ave Apt 6, Chicago, IL 60614",For Sale,Condo,"350,000",177,329,2,1,No Info,1,1890,1144 W Schubert Ave Apt 6, Chicago,IL,60614
+"1235 S Prairie Ave Apt 3508, Chicago, IL 60605",For Sale,Condo,"329,000",356,489,1,1,924,1,2004,1235 S Prairie Ave Apt 3508, Chicago,IL,60605
+"1857 N California Ave Unit 2, Chicago, IL 60647",For Sale,Condo,"499,000",320,489,2,2,"1,560",1,2019,1857 N California Ave Unit 2, Chicago,IL,60647
+"2310 W St Paul Ave Unit 301B, Chicago, IL 60647",For Sale,Condo,"399,000",320,331,2,1,No Info,1,2000,2310 W St Paul Ave Unit 301B, Chicago,IL,60647
+"3400 N Lake Shore Dr Apt 2A, Chicago, IL 60657",For Sale,Condo,"669,000",289,1913,3,2,"2,313",1,1922,3400 N Lake Shore Dr Apt 2A, Chicago,IL,60657
+"1313 N Ritchie Ct Apt 408, Chicago, IL 60610",For Sale,Condo,"349,500",357,745,1,1,980,1,1972,1313 N Ritchie Ct Apt 408, Chicago,IL,60610
+"1751 N Artesian Ave Apt 3, Chicago, IL 60647",For Sale,Condo,"549,000",357,145,2,2,No Info,1,2004,1751 N Artesian Ave Apt 3, Chicago,IL,60647
+"1430 N LA Salle Dr Apt E2, Chicago, IL 60610",For Sale,Townhome,"775,000",388,630,2,2,"2,000",2,1995,1430 N LA Salle Dr Apt E2, Chicago,IL,60610
+"2763 W Lawrence Ave Unit 2N, Chicago, IL 60625",For Sale,Condo,"359,000",388,165,2,2,No Info,2,2021,2763 W Lawrence Ave Unit 2N, Chicago,IL,60625
+"23 N Green St Unit 401, Chicago, IL 60607",For Sale,Condo,"935,000",445,611,4,2,"2,100",2,2021,23 N Green St Unit 401, Chicago,IL,60607
+"2763 W Lawrence Ave Unit 1N, Chicago, IL 60625",For Sale,Condo,"489,000",445,200,3,3,No Info,1,2021,2763 W Lawrence Ave Unit 1N, Chicago,IL,60625
+"2900 N Monitor Ave, Chicago, IL 60634",For Sale,Multi-Family,"649,900",445,200,8,5,No Info,2,2021,2900 N Monitor Ave, Chicago,IL,60634
+"2763 W Lawrence Ave Unit 3N, Chicago, IL 60625",For Sale,Condo,"399,000",445,170,2,2,No Info,2,2021,2763 W Lawrence Ave Unit 3N, Chicago,IL,60625
+"9122 S LA Salle St, Chicago, IL 60620",For Sale,Single Family,"80,000",69,170,3,1,"1,156",2,1951,9122 S LA Salle St, Chicago,IL,60620
+"11435 S Lowe Ave, Chicago, IL 60628",For Sale,Single Family,"195,000",133,170,3,2,"1,466",2,1935,11435 S Lowe Ave, Chicago,IL,60628
+"8412 S Peoria St, Chicago, IL 60620",For Sale,Single Family,"79,900",79,170,3,2,"1,006",2,1905,8412 S Peoria St, Chicago,IL,60620
+"5711 S Blackstone Ave Unit 1N, Chicago, IL 60637",For Sale,Condo,"375,000",79,550,3,2,No Info,2,1893,5711 S Blackstone Ave Unit 1N, Chicago,IL,60637
+"2739 S Shields Ave, Chicago, IL 60616",For Sale,Multi-Family,"270,000",79,550,4,2,No Info,2,1890,2739 S Shields Ave, Chicago,IL,60616
+"623 S Central Park Ave Unit G, Chicago, IL 60624",For Sale,Condo,"70,500",84,128,1,2,835,2,1911,623 S Central Park Ave Unit G, Chicago,IL,60624
+"2455 W Ohio St Unit 6E, Chicago, IL 60612",For Sale,Townhome,"585,000",234,235,3,3,"2,500",2,1999,2455 W Ohio St Unit 6E, Chicago,IL,60612
+"10521 S Avenue N, Chicago, IL 60617",For Sale,Single Family,"132,900",171,235,3,2,778,2,1927,10521 S Avenue N, Chicago,IL,60617
+"4249 W Jackson Blvd, Chicago, IL 60624",For Sale,Multi-Family,"139,900",171,235,7,2,No Info,2,1900,4249 W Jackson Blvd, Chicago,IL,60624
+"2329 W Morse Ave Unit 1E, Chicago, IL 60645",For Sale,Condo,"159,900",171,100,2,1,No Info,2,1954,2329 W Morse Ave Unit 1E, Chicago,IL,60645
+"4357 S Indiana Ave Apt 3, Chicago, IL 60653",For Sale,Condo,"350,000",146,533,3,2,"2,400",2,1910,4357 S Indiana Ave Apt 3, Chicago,IL,60653
+"4140 W 83rd St, Chicago, IL 60652",For Sale,Single Family,"254,999",287,533,3,1,888,1,1956,4140 W 83rd St, Chicago,IL,60652
+"5415 N Sheridan Rd Apt 409, Chicago, IL 60640",For Sale,Condo,"119,900",171,510,1,1,700,1,1973,5415 N Sheridan Rd Apt 409, Chicago,IL,60640
+"5408 S Merrimac Ave, Chicago, IL 60638",For Sale,Single Family,"599,000",144,510,3,2,"4,166",3,1940,5408 S Merrimac Ave, Chicago,IL,60638
+"1441 W Farwell Ave Apt 4E, Chicago, IL 60626",For Sale,Condo,"109,000",144,257,1,1,No Info,3,1965,1441 W Farwell Ave Apt 4E, Chicago,IL,60626
+"3441 W School St, Chicago, IL 60618",For Sale,Single Family,"489,000",245,257,6,3,"1,993",2,1910,3441 W School St, Chicago,IL,60618
+"400 W Huron St Unit 703, Chicago, IL 60654",For Sale,Condo,"1,700,000",717,1745,3,2,"2,370",2,2015,400 W Huron St Unit 703, Chicago,IL,60654
+"616 W Fulton St Apt 513, Chicago, IL 60661",For Sale,Condo,"300,000",306,452,1,1,980,1,1890,616 W Fulton St Apt 513, Chicago,IL,60661
+"2533 W Congress Pkwy, Chicago, IL 60612",For Sale,Multi-Family,"1,700,000",306,452,12,1,No Info,1,2018,2533 W Congress Pkwy, Chicago,IL,60612
+"437 W Division St Apt 403, Chicago, IL 60610",For Sale,Condo,"350,000",296,637,2,2,"1,182",1,2008,437 W Division St Apt 403, Chicago,IL,60610
+"4131 W Belmont Ave Unit 307, Chicago, IL 60641",For Sale,Condo,"269,900",296,480,2,2,No Info,1,2008,4131 W Belmont Ave Unit 307, Chicago,IL,60641
+"6458 N Glenwood Ave Apt 2, Chicago, IL 60626",For Sale,Condo,"419,000",296,383,3,2,No Info,1,2008,6458 N Glenwood Ave Apt 2, Chicago,IL,60626
+"4970 N Marine Dr Apt 527, Chicago, IL 60640",For Sale,Condo,"100,000",296,539,1,1,No Info,1,1953,4970 N Marine Dr Apt 527, Chicago,IL,60640
+"5004 W Warwick Ave, Chicago, IL 60641",For Sale,Single Family,"724,900",630,539,2,1,"1,150",2,1921,5004 W Warwick Ave, Chicago,IL,60641
+"3004 W Lyndale St Unit 1E, Chicago, IL 60647",For Sale,Condo,"650,000",283,180,3,2,"2,300",1,2016,3004 W Lyndale St Unit 1E, Chicago,IL,60647
+"907 W Ainslie St Unit 3, Chicago, IL 60640",For Sale,Condo,"450,000",196,450,3,1,"2,300",1,1915,907 W Ainslie St Unit 3, Chicago,IL,60640
+"5445 N Sheridan Rd Apt 1212, Chicago, IL 60640",For Sale,Condo,"285,000",238,765,2,2,"1,200",1,1974,5445 N Sheridan Rd Apt 1212, Chicago,IL,60640
+"6107 W Wellington Ave, Chicago, IL 60634",For Sale,Single Family,"399,000",210,765,2,2,"1,900",2,1951,6107 W Wellington Ave, Chicago,IL,60634
+"4239 N Keystone Ave Apt 4N, Chicago, IL 60641",For Sale,Condo,"439,000",283,259,3,2,"1,550",2,2004,4239 N Keystone Ave Apt 4N, Chicago,IL,60641
+"5615 N Wayne Ave Unit 2S, Chicago, IL 60660",For Sale,Condo,"429,000",283,297,2,2,No Info,1,1901,5615 N Wayne Ave Unit 2S, Chicago,IL,60660
+"2605 W Agatite Ave Apt 1, Chicago, IL 60625",For Sale,Condo,"269,000",283,272,2,1,No Info,1,1901,2605 W Agatite Ave Apt 1, Chicago,IL,60625
+"303 W Ohio St Apt 1607, Chicago, IL 60654",For Sale,Condo,"539,000",283,712,2,2,No Info,1,2009,303 W Ohio St Apt 1607, Chicago,IL,60654
+"2519 W Charleston St, Chicago, IL 60647",For Sale,Multi-Family,"512,900",283,712,4,3,No Info,2,1892,2519 W Charleston St, Chicago,IL,60647
+"2300 N Commonwealth Ave Apt 7H, Chicago, IL 60614",For Sale,Condo,"247,400",296,292,1,1,837,2,1959,2300 N Commonwealth Ave Apt 7H, Chicago,IL,60614
+"3620 W Diversey Ave Unit 1A, Chicago, IL 60647",For Sale,Condo,"594,999",296,199,4,3,No Info,1,2018,3620 W Diversey Ave Unit 1A, Chicago,IL,60647
+"1740 N Maplewood Ave Apt 316, Chicago, IL 60647",For Sale,Condo,"315,000",296,304,1,1,No Info,1,2002,1740 N Maplewood Ave Apt 316, Chicago,IL,60647
+"3260 N Clark St Apt 508, Chicago, IL 60657",For Sale,Condo,"444,900",371,273,2,2,"1,200",1,2001,3260 N Clark St Apt 508, Chicago,IL,60657
+"1929 N Sedgwick St Apt A, Chicago, IL 60614",For Sale,Condo,"1,375,000",458,249,3,2,"3,000",1,1872,1929 N Sedgwick St Apt A, Chicago,IL,60614
+"636 W Schubert Ave Unit A, Chicago, IL 60614",For Sale,Townhome,"825,000",346,249,4,2,"2,385",1,1994,636 W Schubert Ave Unit A, Chicago,IL,60614
+"2948 N Pine Grove Ave Unit 1, Chicago, IL 60657",For Sale,Condo,"630,000",350,379,3,2,"1,800",1,1922,2948 N Pine Grove Ave Unit 1, Chicago,IL,60657
+"1515 N Mohawk St Apt 1, Chicago, IL 60610",For Sale,Condo,"875,000",313,237,4,2,"2,800",1,2013,1515 N Mohawk St Apt 1, Chicago,IL,60610
+"1660 N Hudson Ave Apt 3B, Chicago, IL 60614",For Sale,Townhome,"999,000",313,626,3,2,No Info,2,1928,1660 N Hudson Ave Apt 3B, Chicago,IL,60614
+"6947 S Michigan Ave, Chicago, IL 60637",For Sale,Single Family,"220,000",127,626,4,2,"1,730",2,1910,6947 S Michigan Ave, Chicago,IL,60637
+"5727 S Hoyne Ave, Chicago, IL 60636",For Sale,Single Family,"199,900",105,626,4,2,"1,900",2,1910,5727 S Hoyne Ave, Chicago,IL,60636
+"5704 W George St Unit 1, Chicago, IL 60634",For Sale,Condo,"79,900",133,221,1,1,600,2,1929,5704 W George St Unit 1, Chicago,IL,60634
+"9119 S Halsted St, Chicago, IL 60620",For Sale,Single Family,"239,999",133,221,4,2,No Info,2,1961,9119 S Halsted St, Chicago,IL,60620
+"2424 W Estes Ave Apt 3F, Chicago, IL 60645",For Sale,Condo,"115,000",128,307,1,1,900,2,1960,2424 W Estes Ave Apt 3F, Chicago,IL,60645
+"3849 S Hermitage Ave, Chicago, IL 60609",For Sale,Single Family,"599,900",200,307,4,3,"3,000",2,2017,3849 S Hermitage Ave, Chicago,IL,60609
+"725 N Trumbull Ave, Chicago, IL 60624",For Sale,Multi-Family,"399,900",139,307,9,3,"2,870",2,1911,725 N Trumbull Ave, Chicago,IL,60624
+"899 S Plymouth Ct Apt 1806, Chicago, IL 60605",For Sale,Condo,"194,000",250,464,1,1,775,2,1984,899 S Plymouth Ct Apt 1806, Chicago,IL,60605
+"3600 N Lake Shore Dr Apt 1003, Chicago, IL 60613",For Sale,Condo,"168,900",260,390,1,1,650,2,1959,3600 N Lake Shore Dr Apt 1003, Chicago,IL,60613
+"8539 S Saint Lawrence Ave, Chicago, IL 60619",For Sale,Townhome,"139,000",139,390,3,1,"1,000",2,1939,8539 S Saint Lawrence Ave, Chicago,IL,60619
+"1631 N Moody Ave, Chicago, IL 60639",For Sale,Single Family,"399,950",148,390,4,3,"2,700",2,1939,1631 N Moody Ave, Chicago,IL,60639
+"1415 N Dearborn St Apt 11C, Chicago, IL 60610",For Sale,Condo,"299,000",230,1103,2,2,"1,300",1,1973,1415 N Dearborn St Apt 11C, Chicago,IL,60610
+"221 E Cullerton St Apt 306, Chicago, IL 60616",For Sale,Condo,"235,000",230,386,1,1,No Info,1,2001,221 E Cullerton St Apt 306, Chicago,IL,60616
+"200 N Dearborn St Unit 4504, Chicago, IL 60601",For Sale,Condo,"260,000",344,525,1,1,755,1,1989,200 N Dearborn St Unit 4504, Chicago,IL,60601
+"825 W Eastwood Ave Apt 2E, Chicago, IL 60640",For Sale,Condo,"260,000",344,330,2,2,No Info,1,2001,825 W Eastwood Ave Apt 2E, Chicago,IL,60640
+"1 E Scott St Apt 404, Chicago, IL 60610",For Sale,Condo,"245,000",344,725,1,1,No Info,1,2001,1 E Scott St Apt 404, Chicago,IL,60610
+"1512 W Diversey Pkwy Unit B, Chicago, IL 60614",For Sale,Townhome,"349,999",219,725,2,2,"1,600",1,1993,1512 W Diversey Pkwy Unit B, Chicago,IL,60614
+"865 N Hermitage Ave Unit 2, Chicago, IL 60622",For Sale,Condo,"399,000",333,149,2,2,"1,200",1,2001,865 N Hermitage Ave Unit 2, Chicago,IL,60622
+"5357 N McVicker Ave, Chicago, IL 60630",For Sale,Single Family,"359,000",333,149,3,2,No Info,1,1961,5357 N McVicker Ave, Chicago,IL,60630
+"3900 N Pine Grove Ave Apt 907, Chicago, IL 60613",For Sale,Condo,"225,000",333,468,1,1,No Info,1,1973,3900 N Pine Grove Ave Apt 907, Chicago,IL,60613
+"1040 W Adams St Unit 319, Chicago, IL 60607",For Sale,Condo,"350,000",333,593,2,1,"1,050",1,2006,1040 W Adams St Unit 319, Chicago,IL,60607
+"1913 W Armitage Ave Apt 2F, Chicago, IL 60622",For Sale,Condo,"325,000",333,324,2,2,No Info,1,2006,1913 W Armitage Ave Apt 2F, Chicago,IL,60622
+"1620 S Michigan Ave Unit 1104, Chicago, IL 60616",For Sale,Condo,"365,000",333,386,2,2,No Info,1,2007,1620 S Michigan Ave Unit 1104, Chicago,IL,60616
+"4210 N Natchez Ave Apt 505, Chicago, IL 60634",For Sale,Condo,"189,900",181,296,1,1,"1,047",1,2007,4210 N Natchez Ave Apt 505, Chicago,IL,60634
+"559 W Fullerton Pkwy Apt 3W, Chicago, IL 60614",For Sale,Condo,"359,900",181,374,2,1,No Info,1,1913,559 W Fullerton Pkwy Apt 3W, Chicago,IL,60614
+"3842 N Southport Ave Apt L, Chicago, IL 60613",For Sale,Townhome,"845,000",319,204,3,3,"2,650",2,2006,3842 N Southport Ave Apt L, Chicago,IL,60613
+"812 W College Pkwy Unit 3A, Chicago, IL 60608",For Sale,Condo,"394,900",282,542,3,2,"1,400",2,2005,812 W College Pkwy Unit 3A, Chicago,IL,60608
+"25 E Superior St Apt 302, Chicago, IL 60611",For Sale,Condo,"324,900",380,609,1,1,855,1,2003,25 E Superior St Apt 302, Chicago,IL,60611
+"2740 N Whipple St, Chicago, IL 60647",For Sale,Single Family,"1,400,000",333,609,5,3,"4,200",2,2018,2740 N Whipple St, Chicago,IL,60647
+"106 S Sangamon St Apt 2N, Chicago, IL 60607",For Sale,Condo,"824,900",466,280,3,2,"1,771",1,2009,106 S Sangamon St Apt 2N, Chicago,IL,60607
+"33 W Ontario St Ph D, Chicago, IL 60654",For Sale,Condo,"2,400,000",656,3739,4,4,"3,659",3,2003,33 W Ontario St Ph D, Chicago,IL,60654
+"3618 N Lakewood Ave Apt I, Chicago, IL 60613",For Sale,Townhome,"599,000",272,100,3,2,"2,200",1,1995,3618 N Lakewood Ave Apt I, Chicago,IL,60613
+"1360 N Sandburg Ter Apt 1102C, Chicago, IL 60610",For Sale,Condo,"424,900",272,834,2,2,No Info,1,1964,1360 N Sandburg Ter Apt 1102C, Chicago,IL,60610
+"159 E Walton Pl Apt 14F, Chicago, IL 60611",For Sale,Condo,"1,490,000",635,2381,2,2,"2,347",1,1929,159 E Walton Pl Apt 14F, Chicago,IL,60611
+"2308 W North Ave Apt 4E, Chicago, IL 60647",For Sale,Condo,"499,000",312,365,3,2,"1,600",1,2004,2308 W North Ave Apt 4E, Chicago,IL,60647
+"1716 W North Shore Ave, Chicago, IL 60626",For Sale,Multi-Family,"5,400,000",312,365,38,3,No Info,1,1908,1716 W North Shore Ave, Chicago,IL,60626
+"2742 N Hamlin Ave Unit 3N, Chicago, IL 60647",For Sale,Condo,"499,000",312,165,2,2,No Info,1,2019,2742 N Hamlin Ave Unit 3N, Chicago,IL,60647
+"2451 N Greenview Ave Apt 3, Chicago, IL 60614",For Sale,Condo,"429,900",331,135,2,2,"1,300",1,1995,2451 N Greenview Ave Apt 3, Chicago,IL,60614
+"2633 N Sawyer Ave, Chicago, IL 60647",For Sale,Multi-Family,"699,000",291,135,4,2,"2,400",1,1905,2633 N Sawyer Ave, Chicago,IL,60647
+"5015 N Clark St Unit 201, Chicago, IL 60640",For Sale,Condo,"699,900",291,250,3,2,No Info,1,2021,5015 N Clark St Unit 201, Chicago,IL,60640
+"5015 N Clark St Unit 401, Chicago, IL 60640",For Sale,Condo,"849,900",291,250,3,2,No Info,1,2020,5015 N Clark St Unit 401, Chicago,IL,60640
+"7427 S May St, Chicago, IL 60621",For Sale,Single Family,"140,000",140,250,3,1,"1,000",1,1967,7427 S May St, Chicago,IL,60621
+"10437 S Forest Ave, Chicago, IL 60628",For Sale,Single Family,"224,900",132,250,5,3,"1,700",1,1967,10437 S Forest Ave, Chicago,IL,60628
+"1612 W Farwell Ave Apt 3C, Chicago, IL 60626",For Sale,Condo,"199,900",22,300,2,1,"9,240",1,1971,1612 W Farwell Ave Apt 3C, Chicago,IL,60626
+"10915 S Avenue N, Chicago, IL 60617",For Sale,No Info,"249,999",No Info,No Info,3,1,"1,500",No Info,No Info,10915 S Avenue N, Chicago,IL,60617
+"40 E 9th St Apt 1203, Chicago, IL 60605",For Sale,Condo,"173,000",193,655,1,1,897,1,1915,40 E 9th St Apt 1203, Chicago,IL,60605
+"2245 W 23rd St, Chicago, IL 60608",For Sale,Multi-Family,"379,800",193,655,5,3,No Info,2,1900,2245 W 23rd St, Chicago,IL,60608
+"1539 W Sherwin Ave, Chicago, IL 60626",For Sale,Single Family,"775,000",193,655,4,2,No Info,2,1901,1539 W Sherwin Ave, Chicago,IL,60626
+"3750 N Lake Shore Dr Apt 12H, Chicago, IL 60613",For Sale,Condo,"289,999",176,1115,2,2,"1,650",2,1926,3750 N Lake Shore Dr Apt 12H, Chicago,IL,60613
+"2330 W Huron St Apt 2E, Chicago, IL 60612",For Sale,Condo,"424,900",283,215,2,2,"1,500",2,1930,2330 W Huron St Apt 2E, Chicago,IL,60612
+"6301 N Sheridan Rd Apt 7M, Chicago, IL 60660",For Sale,Condo,"100,000",283,612,1,1,No Info,1,1963,6301 N Sheridan Rd Apt 7M, Chicago,IL,60660
+"6213 N Hiawatha Ave, Chicago, IL 60646",For Sale,Single Family,"315,000",278,612,2,2,"1,134",2,1956,6213 N Hiawatha Ave, Chicago,IL,60646
+"500 S Clinton St Apt 646, Chicago, IL 60607",For Sale,Condo,"275,000",250,588,2,2,"1,100",1,1956,500 S Clinton St Apt 646, Chicago,IL,60607
+"1816 N Monitor Ave, Chicago, IL 60639",For Sale,Multi-Family,"374,900",250,588,7,3,No Info,2,1918,1816 N Monitor Ave, Chicago,IL,60639
+"300 N State St Apt 3507, Chicago, IL 60654",For Sale,Condo,"245,000",338,588,1,1,725,2,1962,300 N State St Apt 3507, Chicago,IL,60654
+"1555 N Sandburg Ter Unit 307K, Chicago, IL 60610",For Sale,Condo,"340,000",283,961,2,2,"1,200",1,1970,1555 N Sandburg Ter Unit 307K, Chicago,IL,60610
+"837 N Elizabeth St, Chicago, IL 60642",For Sale,Single Family,"789,000",283,961,3,2,No Info,2,2000,837 N Elizabeth St, Chicago,IL,60642
+"130 S Canal St Apt 707, Chicago, IL 60606",For Sale,Condo,"380,000",291,831,2,2,"1,307",1,1949,130 S Canal St Apt 707, Chicago,IL,60606
+"5330 N Sawyer Ave Apt 3N, Chicago, IL 60625",For Sale,Condo,"234,000",213,237,2,1,"1,100",1,1932,5330 N Sawyer Ave Apt 3N, Chicago,IL,60625
+"1342 N Dean St Apt 1, Chicago, IL 60622",For Sale,Condo,"499,900",245,112,3,2,"2,040",1,2000,1342 N Dean St Apt 1, Chicago,IL,60622
+"550 N Kingsbury St Apt 214, Chicago, IL 60654",For Sale,Condo,"550,000",407,700,2,2,"1,350",1,1910,550 N Kingsbury St Apt 214, Chicago,IL,60654
+"6566 N Harlem Ave, Chicago, IL 60631",For Sale,Multi-Family,"544,900",407,700,7,3,No Info,2,1964,6566 N Harlem Ave, Chicago,IL,60631
+"150 W Superior St Apt 902, Chicago, IL 60654",For Sale,Condo,"310,000",348,629,1,1,892,1,2006,150 W Superior St Apt 902, Chicago,IL,60654
+"3541 N Pioneer Ave, Chicago, IL 60634",For Sale,Single Family,"350,000",348,629,3,2,No Info,2,1955,3541 N Pioneer Ave, Chicago,IL,60634
+"1320 S Federal St Unit A, Chicago, IL 60605",For Sale,Townhome,"525,000",348,275,2,2,No Info,1,1995,1320 S Federal St Unit A, Chicago,IL,60605
+"942 N Wolcott Ave Unit 2, Chicago, IL 60622",For Sale,Condo,"484,900",373,160,2,2,"1,300",1,1996,942 N Wolcott Ave Unit 2, Chicago,IL,60622
+"4310 N Mason Ave, Chicago, IL 60634",For Sale,Multi-Family,"454,900",373,160,5,3,No Info,2,1927,4310 N Mason Ave, Chicago,IL,60634
+"655 W Irving Park Rd Apt 5107, Chicago, IL 60613",For Sale,Condo,"335,000",373,1250,2,2,No Info,1,1973,655 W Irving Park Rd Apt 5107, Chicago,IL,60613
+"832 W Belle Plaine Ave Unit 1E, Chicago, IL 60613",For Sale,Condo,"375,000",221,419,3,2,"1,700",1,1911,832 W Belle Plaine Ave Unit 1E, Chicago,IL,60613
+"2839 W Palmer St Unit 1, Chicago, IL 60647",For Sale,Condo,"300,000",221,252,3,1,No Info,1,1911,2839 W Palmer St Unit 1, Chicago,IL,60647
+"4802 N Kenmore Ave Apt 3, Chicago, IL 60640",For Sale,Condo,"349,900",221,273,2,2,No Info,1,1920,4802 N Kenmore Ave Apt 3, Chicago,IL,60640
+"650 W Wayman St Unit 608, Chicago, IL 60661",For Sale,Condo,"385,000",321,570,2,2,"1,200",1,2005,650 W Wayman St Unit 608, Chicago,IL,60661
+"2849 N Damen Ave Unit 3, Chicago, IL 60618",For Sale,Condo,"575,000",250,285,3,3,"2,300",1,1997,2849 N Damen Ave Unit 3, Chicago,IL,60618
+"339 W Barry Ave Apt 17B, Chicago, IL 60657",For Sale,Condo,"289,000",289,843,1,1,"1,000",2,1964,339 W Barry Ave Apt 17B, Chicago,IL,60657
+"2474 N Lincoln Ave Apt 2S, Chicago, IL 60614",For Sale,Condo,"949,900",289,315,3,2,No Info,1,2018,2474 N Lincoln Ave Apt 2S, Chicago,IL,60614
+"1310 W Fletcher St Apt 1E, Chicago, IL 60657",For Sale,Condo,"734,999",289,267,3,3,No Info,1,1999,1310 W Fletcher St Apt 1E, Chicago,IL,60657
+"110 W Superior St Unit 1901, Chicago, IL 60654",For Sale,Condo,"750,000",289,832,2,2,No Info,1,2008,110 W Superior St Unit 1901, Chicago,IL,60654
+"1848 N Halsted St Apt 1, Chicago, IL 60614",For Sale,Condo,"899,900",289,438,3,2,No Info,1,2005,1848 N Halsted St Apt 1, Chicago,IL,60614
+"1755 W Roscoe St Apt 1, Chicago, IL 60657",For Sale,Condo,"599,000",260,195,3,3,"2,300",1,1997,1755 W Roscoe St Apt 1, Chicago,IL,60657
+"220 S Green St Apt 2N, Chicago, IL 60607",For Sale,Condo,"1,029,999",502,211,3,2,"2,050",1,2019,220 S Green St Apt 2N, Chicago,IL,60607
+"2625 N Wilton Ave Unit 3, Chicago, IL 60614",For Sale,Condo,"850,000",640,211,2,2,"1,328",1,2021,2625 N Wilton Ave Unit 3, Chicago,IL,60614
+"2625 N Wilton Ave Unit 2, Chicago, IL 60614",For Sale,Condo,"699,000",526,211,2,2,"1,328",1,2021,2625 N Wilton Ave Unit 2, Chicago,IL,60614
+"2625 N Wilton Ave Unit 1, Chicago, IL 60614",For Sale,Condo,"1,080,000",464,211,4,2,"2,329",1,2021,2625 N Wilton Ave Unit 1, Chicago,IL,60614
+"5118 Pinewilde Dr, Houston, TX 77066",For Sale,Single Family,"273,900",100,42,4,2,"2,746",2,1979,5118 Pinewilde Dr, Houston,TX,77066
+"5122 Verdenbruk Dr, Houston, TX 77066",For Sale,Single Family,"220,000",124,42,4,2,"1,780",2,1984,5122 Verdenbruk Dr, Houston,TX,77066
+"15618 Stone Gables Ln, Houston, TX 77044",For Sale,Single Family,"559,900",131,74,4,3,"4,279",3,2003,15618 Stone Gables Ln, Houston,TX,77044
+"6042 Willowbend Blvd, Houston, TX 77096",For Sale,Single Family,"244,900",132,74,3,2,"1,862",2,1963,6042 Willowbend Blvd, Houston,TX,77096
+"537 Melbourne St, Houston, TX 77022",For Sale,Single Family,"295,000",196,74,3,2,"1,504",1,1927,537 Melbourne St, Houston,TX,77022
+"5804 Bayou Glen Rd, Houston, TX 77057",For Sale,Single Family,"4,375,000",498,125,6,7,"8,788",3,2015,5804 Bayou Glen Rd, Houston,TX,77057
+"10110 Forum West Dr Apt 639, Houston, TX 77036",For Sale,Condo,"80,000",80,305,2,1,"1,002",3,1981,10110 Forum West Dr Apt 639, Houston,TX,77036
+"5625 Antoine Dr Apt 1004, Houston, TX 77091",For Sale,Condo,"51,000",50,388,2,2,"1,027",3,1972,5625 Antoine Dr Apt 1004, Houston,TX,77091
+"7614 Brykerwoods Dr, Houston, TX 77055",For Sale,Single Family,"1,965,000",437,388,4,3,"4,494",2,2008,7614 Brykerwoods Dr, Houston,TX,77055
+"5321 Northington St, Houston, TX 77039",For Sale,Single Family,"165,000",153,388,3,1,"1,078",1,1960,5321 Northington St, Houston,TX,77039
+"2865 Westhollow Dr Unit 84, Houston, TX 77082",For Sale,Townhome,"257,000",87,260,4,2,"2,948",2,2008,2865 Westhollow Dr Unit 84, Houston,TX,77082
+"14426 Hillard Green Ln, Houston, TX 77047",For Sale,Single Family,"255,000",139,33,4,2,"1,830",2,2006,14426 Hillard Green Ln, Houston,TX,77047
+"817 Gale St, Houston, TX 77009",For Sale,Single Family,"520,000",297,33,3,2,"1,752",2,1939,817 Gale St, Houston,TX,77009
+"1966 Sugar Pine Cir, Houston, TX 77090",For Sale,Single Family,"229,999",116,116,3,3,"1,982",2,1994,1966 Sugar Pine Cir, Houston,TX,77090
+"8930 Grape St, Houston, TX 77036",For Sale,Single Family,"265,000",149,116,3,2,"1,782",2,1966,8930 Grape St, Houston,TX,77036
+"11111 Atwell Dr, Houston, TX 77096",For Sale,Single Family,"534,999",218,116,3,2,"2,453",2,1959,11111 Atwell Dr, Houston,TX,77096
+"5823 Candlewood Ln, Houston, TX 77057",For Sale,Townhome,"599,900",198,213,4,3,"3,028",2,1998,5823 Candlewood Ln, Houston,TX,77057
+"9651 Meadowglen Ln, Houston, TX 77063",For Sale,Single Family,"325,000",171,213,3,2,"1,904",2,1957,9651 Meadowglen Ln, Houston,TX,77063
+"1817 Cortlandt St, Houston, TX 77008",For Sale,Single Family,"1,679,900",412,213,4,4,"4,082",2,1920,1817 Cortlandt St, Houston,TX,77008
+"2100 Tanglewilde St Apt 451, Houston, TX 77063",For Sale,Townhome,"110,000",110,419,1,1,"1,000",2,1969,2100 Tanglewilde St Apt 451, Houston,TX,77063
+"13002 Leader St Units 1 & 904, Houston, TX 77072",For Sale,Townhome,"115,000",115,205,2,1,"1,002",2,1979,13002 Leader St Units 1 & 904, Houston,TX,77072
+"401 N Post Oak Ln, Houston, TX 77024",For Sale,Townhome,"309,000",139,714,3,2,"2,224",2,1969,401 N Post Oak Ln, Houston,TX,77024
+"427 W 30th St, Houston, TX 77018",For Sale,Single Family,"2,350",1,714,3,2,"2,012",2,1938,427 W 30th St, Houston,TX,77018
+"3030 Post Oak Blvd Unit 413, Houston, TX 77056",For Sale,Condo,"1,338,260",395,780,3,2,"3,388",2,2002,3030 Post Oak Blvd Unit 413, Houston,TX,77056
+"10733 Old Coach Ln, Houston, TX 77024",For Sale,Single Family,"3,995,000",529,780,5,5,"7,554",4,2021,10733 Old Coach Ln, Houston,TX,77024
+"4317 Westheimer Rd, Houston, TX 77027",For Sale,Townhome,"550,000",265,220,2,2,"2,075",2,1979,4317 Westheimer Rd, Houston,TX,77027
+"1231 Del Norte St, Houston, TX 77018",For Sale,Single Family,"509,000",256,4,3,2,"1,990",2,1962,1231 Del Norte St, Houston,TX,77018
+"802 Oxford St, Houston, TX 77007",For Sale,Single Family,"749,000",434,4,3,3,"1,727",2,1920,802 Oxford St, Houston,TX,77007
+"3433 Westheimer Rd Ph 2W, Houston, TX 77027",For Sale,No Info,"8,990,000",No Info,No Info,4,5,"6,200",No Info,No Info,3433 Westheimer Rd Ph 2W, Houston,TX,77027
+"1107 Archer St, Houston, TX 77009",For Sale,Single Family,"585,000",335,4,3,2,"1,744",2,1918,1107 Archer St, Houston,TX,77009
+"1411 W 26th St, Houston, TX 77008",For Sale,Single Family,"414,000",164,96,3,2,"2,524",2,2002,1411 W 26th St, Houston,TX,77008
+"1111 Studewood St Unit 406, Houston, TX 77008",For Sale,Condo,"625,000",337,1050,2,2,"1,855",2,2012,1111 Studewood St Unit 406, Houston,TX,77008
+"5706 Blossom St, Houston, TX 77007",For Sale,Single Family,"535,000",214,1050,3,3,"2,499",2,2004,5706 Blossom St, Houston,TX,77007
+"962 Dunleigh Meadows Ln, Houston, TX 77055",For Sale,Single Family,"699,000",275,208,3,3,"2,542",2,2021,962 Dunleigh Meadows Ln, Houston,TX,77055
+"3433 Westheimer Rd Apt 801, Houston, TX 77027",For Sale,Condo,"2,425,000",957,2197,2,2,"2,533",2,1962,3433 Westheimer Rd Apt 801, Houston,TX,77027
+"2823 Albany St, Houston, TX 77006",For Sale,Townhome,"445,000",172,175,3,3,"2,591",2,2002,2823 Albany St, Houston,TX,77006
+"10306 Piping Rock Ln, Houston, TX 77042",For Sale,Single Family,"569,500",266,57,4,2,"2,141",2,1983,10306 Piping Rock Ln, Houston,TX,77042
+"722 W Forest Dr, Houston, TX 77079",For Sale,Single Family,"795,000",357,83,4,2,"2,230",2,1963,722 W Forest Dr, Houston,TX,77079
+"3640 Ocee St, Houston, TX 77063",For Sale,Townhome,"118,000",88,390,2,2,"1,336",2,1978,3640 Ocee St, Houston,TX,77063
+"4819 Caroline St Unit 309, Houston, TX 77004",For Sale,Condo,"379,050",268,360,2,2,"1,412",2,2020,4819 Caroline St Unit 309, Houston,TX,77004
+"4819 Caroline St Unit 313, Houston, TX 77004",For Sale,Condo,"398,050",271,361,2,2,"1,467",2,2020,4819 Caroline St Unit 313, Houston,TX,77004
+"414 Faust Ln, Houston, TX 77024",For Sale,Single Family,"1,350,000",318,23,5,5,"4,246",2,2021,414 Faust Ln, Houston,TX,77024
+"7627 Muirwood Ln, Houston, TX 77041",For Sale,Single Family,"199,950",140,32,3,2,"1,430",2,1980,7627 Muirwood Ln, Houston,TX,77041
+"214 Caplin St, Houston, TX 77022",For Sale,Single Family,"199,000",138,32,2,2,"1,444",1,1937,214 Caplin St, Houston,TX,77022
+"11715 Green Colling Park Dr, Houston, TX 77047",For Sale,Single Family,"270,000",116,63,4,2,"2,326",2,2011,11715 Green Colling Park Dr, Houston,TX,77047
+"8155 Rockford Dr, Houston, TX 77033",For Sale,Single Family,"225,000",159,63,4,2,"1,416",2,1953,8155 Rockford Dr, Houston,TX,77033
+"16618 Parliament Dr, Houston, TX 77083",For Sale,Single Family,"260,000",129,23,3,2,"2,020",2,1991,16618 Parliament Dr, Houston,TX,77083
+"15451 Bammel Oaks Ct, Houston, TX 77014",For Sale,Single Family,"185,000",136,31,3,2,"1,356",2,2013,15451 Bammel Oaks Ct, Houston,TX,77014
+"9201 Clarewood Dr Apt 16, Houston, TX 77036",For Sale,Condo,"124,900",100,23,2,2,"1,250",2,1979,9201 Clarewood Dr Apt 16, Houston,TX,77036
+"14002 Jupiter Hills Dr, Houston, TX 77069",For Sale,Single Family,"275,000",117,90,3,2,"2,359",2,1982,14002 Jupiter Hills Dr, Houston,TX,77069
+"11710 Triola Ln, Houston, TX 77072",For Sale,Single Family,"215,000",141,15,3,2,"1,521",2,1967,11710 Triola Ln, Houston,TX,77072
+"9814 Swindale Ridge Ln, Houston, TX 77044",For Sale,Single Family,"300,000",121,35,4,2,"2,475",2,2017,9814 Swindale Ridge Ln, Houston,TX,77044
+"18023 Holly Forest Dr, Houston, TX 77084",For Sale,Single Family,"205,000",131,36,3,2,"1,560",2,1983,18023 Holly Forest Dr, Houston,TX,77084
+"2125 Augusta Dr Apt 8, Houston, TX 77057",For Sale,Condo,"159,000",167,200,2,1,952,2,1978,2125 Augusta Dr Apt 8, Houston,TX,77057
+"818 Augusta Dr, Houston, TX 77057",For Sale,Condo,"265,000",170,458,2,2,"1,560",2,1978,818 Augusta Dr, Houston,TX,77057
+"3019 Palmer St, Houston, TX 77003",For Sale,Townhome,"309,990",174,119,2,2,"1,785",2,2004,3019 Palmer St, Houston,TX,77003
+"8133 Bendell Dr, Houston, TX 77017",For Sale,Single Family,"160,000",154,119,3,1,"1,038",2,1949,8133 Bendell Dr, Houston,TX,77017
+"4926 Libbey Ln, Houston, TX 77092",For Sale,Single Family,"364,900",221,119,3,2,"1,653",2,1953,4926 Libbey Ln, Houston,TX,77092
+"4622 Kinglet St, Houston, TX 77035",For Sale,Single Family,"270,000",183,119,3,1,"1,473",2,1956,4622 Kinglet St, Houston,TX,77035
+"10041 Lazy Oaks St, Houston, TX 77080",For Sale,Single Family,"299,999",233,119,3,1,"1,289",2,1953,10041 Lazy Oaks St, Houston,TX,77080
+"9348 Briar Forest Dr, Houston, TX 77063",For Sale,Townhome,"335,000",142,250,3,2,"2,361",2,1978,9348 Briar Forest Dr, Houston,TX,77063
+"1311 Arlington St, Houston, TX 77008",For Sale,Single Family,"799,000",283,250,3,2,"2,826",1,1920,1311 Arlington St, Houston,TX,77008
+"6322 Culberson St, Houston, TX 77021",For Sale,Single Family,"345,000",192,75,3,3,"1,793",2,2018,6322 Culberson St, Houston,TX,77021
+"1207 Birdsall St, Houston, TX 77007",For Sale,Single Family,"419,000",164,75,3,3,"2,560",2,2004,1207 Birdsall St, Houston,TX,77007
+"5405 Tocayo Pl, Houston, TX 77091",For Sale,Single Family,"405,000",146,83,3,2,"2,777",2,2021,5405 Tocayo Pl, Houston,TX,77091
+"710 E 7th 1/2 St, Houston, TX 77007",For Sale,Single Family,"979,900",446,83,3,3,"2,195",2,1920,710 E 7th 1/2 St, Houston,TX,77007
+"5259 Jason St, Houston, TX 77096",For Sale,Single Family,"399,990",206,34,3,2,"1,943",2,1955,5259 Jason St, Houston,TX,77096
+"12625 Memorial Dr Apt 95, Houston, TX 77024",For Sale,Townhome,"490,000",186,375,3,3,"2,630",2,1978,12625 Memorial Dr Apt 95, Houston,TX,77024
+"9105 Harbor Hills Dr, Houston, TX 77054",For Sale,Single Family,"375,000",142,240,3,3,"2,643",2,2006,9105 Harbor Hills Dr, Houston,TX,77054
+"1004 California St Unit 103, Houston, TX 77006",For Sale,Townhome,"449,000",273,400,2,2,"1,647",2,2016,1004 California St Unit 103, Houston,TX,77006
+"1429 Alexander St, Houston, TX 77008",For Sale,Single Family,"629,900",252,400,3,2,"2,502",2,2021,1429 Alexander St, Houston,TX,77008
+"5411 Tocayo Pl, Houston, TX 77091",For Sale,Single Family,"495,000",178,83,4,3,"2,777",2,2021,5411 Tocayo Pl, Houston,TX,77091
+"1178 Chamboard Ln, Houston, TX 77018",For Sale,Single Family,"579,000",310,83,3,2,"1,868",2,1962,1178 Chamboard Ln, Houston,TX,77018
+"3702 Lydia St, Houston, TX 77021",For Sale,Single Family,"359,995",192,83,3,2,"1,874",2,2021,3702 Lydia St, Houston,TX,77021
+"5622 Willowbend Blvd, Houston, TX 77096",For Sale,Single Family,"499,000",193,17,4,2,"2,583",2,1962,5622 Willowbend Blvd, Houston,TX,77096
+"12015 Briar Forest Dr, Houston, TX 77077",For Sale,Single Family,"365,000",159,55,3,2,"2,301",2,1976,12015 Briar Forest Dr, Houston,TX,77077
+"2618 Albany St, Houston, TX 77006",For Sale,Townhome,"365,000",213,108,2,2,"1,714",2,2001,2618 Albany St, Houston,TX,77006
+"1226 Place Royale Way, Houston, TX 77056",For Sale,Single Family,"1,999,900",306,667,4,4,"6,526",2,2013,1226 Place Royale Way, Houston,TX,77056
+"4295 Feagan St, Houston, TX 77007",For Sale,Single Family,"475,000",207,125,3,3,"2,300",2,2003,4295 Feagan St, Houston,TX,77007
+"10711 Chimney Rock Rd, Houston, TX 77096",For Sale,Single Family,"365,000",245,125,3,2,"1,490",2,1954,10711 Chimney Rock Rd, Houston,TX,77096
+"3327 Green Tree Park, Houston, TX 77007",For Sale,Townhome,"499,900",204,292,3,2,"2,446",2,2002,3327 Green Tree Park, Houston,TX,77007
+"5314 Val Verde St, Houston, TX 77056",For Sale,Single Family,"899,000",259,76,3,3,"3,476",2,1999,5314 Val Verde St, Houston,TX,77056
+"1813 Calabasas Way, Houston, TX 77080",For Sale,Single Family,"349,900",213,192,3,2,"1,642",2,2019,1813 Calabasas Way, Houston,TX,77080
+"5827 Dolores St, Houston, TX 77057",For Sale,Single Family,"409,000",221,100,3,3,"1,851",2,2021,5827 Dolores St, Houston,TX,77057
+"13363 Granada St, Houston, TX 77015",For Sale,Single Family,"149,990",144,100,3,1,"1,044",1,1950,13363 Granada St, Houston,TX,77015
+"11435 Raincove Dr, Houston, TX 77016",For Sale,Single Family,"230,000",124,100,6,3,"1,856",2,1960,11435 Raincove Dr, Houston,TX,77016
+"2120 Wilcrest Dr Apt 218, Houston, TX 77042",For Sale,Condo,"118,950",170,278,2,2,700,2,1980,2120 Wilcrest Dr Apt 218, Houston,TX,77042
+"16107 Highlander Dr, Houston, TX 77082",For Sale,Single Family,"179,000",114,21,2,2,"1,564",1,1979,16107 Highlander Dr, Houston,TX,77082
+"10118 Duchamp Dr, Houston, TX 77036",For Sale,Single Family,"250,000",105,21,4,2,"2,372",2,1991,10118 Duchamp Dr, Houston,TX,77036
+"8602 Dawnridge Dr, Houston, TX 77071",For Sale,Single Family,"250,000",117,31,4,2,"2,132",2,1980,8602 Dawnridge Dr, Houston,TX,77071
+"13015 Mills Bend St, Houston, TX 77070",For Sale,Single Family,"240,000",105,33,4,2,"2,279",2,1979,13015 Mills Bend St, Houston,TX,77070
+"8122 Northline Dr, Houston, TX 77037",For Sale,Single Family,"230,000",138,33,3,2,"1,668",2,1972,8122 Northline Dr, Houston,TX,77037
+"9019 Redwing Dr, Houston, TX 77049",For Sale,Single Family,"310,000",185,33,4,2,"1,674",6,1963,9019 Redwing Dr, Houston,TX,77049
+"12708 Yoshino Cherry St, Houston, TX 77072",For Sale,Single Family,"260,000",160,100,3,2,"1,625",2,2020,12708 Yoshino Cherry St, Houston,TX,77072
+"8436 Berry Brush Ln, Houston, TX 77022",For Sale,Single Family,"304,000",156,150,3,2,"1,945",2,2021,8436 Berry Brush Ln, Houston,TX,77022
+"15410 Poolview St, Houston, TX 77071",For Sale,Single Family,"200,000",121,26,3,2,"1,653",2,1968,15410 Poolview St, Houston,TX,77071
+"13506 Oak Ledge Dr, Houston, TX 77065",For Sale,Single Family,"234,900",126,22,3,2,"1,870",2,1981,13506 Oak Ledge Dr, Houston,TX,77065
+"8428 Berry Brush Ln, Houston, TX 77022",For Sale,Single Family,"254,900",178,150,3,2,"1,430",2,2021,8428 Berry Brush Ln, Houston,TX,77022
+"8432 Berry Brush Ln, Houston, TX 77022",For Sale,Single Family,"294,900",167,150,3,2,"1,762",2,2021,8432 Berry Brush Ln, Houston,TX,77022
+"800 Country Place Dr Unit 606, Houston, TX 77079",For Sale,Townhome,"215,000",150,330,2,2,"1,433",2,1980,800 Country Place Dr Unit 606, Houston,TX,77079
+"8423 Berry Brush Ln, Houston, TX 77022",For Sale,Single Family,"272,900",168,150,3,2,"1,620",2,2021,8423 Berry Brush Ln, Houston,TX,77022
+"8415 Berry Brush Ln, Houston, TX 77022",For Sale,Single Family,"272,000",168,150,3,2,"1,620",2,2021,8415 Berry Brush Ln, Houston,TX,77022
+"5113 Caldera Ct, Houston, TX 77066",For Sale,Single Family,"230,000",125,153,3,2,"1,847",2,2015,5113 Caldera Ct, Houston,TX,77066
+"3503 Valley Haven Dr, Kingwood, TX 77339",For Sale,Single Family,"315,000",124,40,4,2,"2,534",2,1979,3503 Valley Haven Dr, Kingwood,TX,77339
+"728 Bering Dr Apt H, Houston, TX 77057",For Sale,Condo,"131,900",167,275,1,1,788,2,1978,728 Bering Dr Apt H, Houston,TX,77057
+"8419 Berry Brush Ln, Houston, TX 77022",For Sale,Single Family,"249,900",142,150,3,2,"1,762",2,2021,8419 Berry Brush Ln, Houston,TX,77022
+"8202 Wayward Rd, Houston, TX 77064",For Sale,Single Family,"225,000",144,29,3,2,"1,560",2,1975,8202 Wayward Rd, Houston,TX,77064
+"7350 Kirby Dr Apt 26, Houston, TX 77030",For Sale,Condo,"289,000",174,500,3,2,"1,662",2,1980,7350 Kirby Dr Apt 26, Houston,TX,77030
+"9615 Ravens Nest Ct, Houston, TX 77083",For Sale,Single Family,"250,000",131,38,3,2,"1,911",2,2002,9615 Ravens Nest Ct, Houston,TX,77083
+"8603 Beviamo St, Houston, TX 77031",For Sale,Single Family,"290,000",223,100,4,2,"1,302",2,2017,8603 Beviamo St, Houston,TX,77031
+"7630 Troulon Dr, Houston, TX 77074",For Sale,Single Family,"288,500",176,100,3,2,"1,643",2,1965,7630 Troulon Dr, Houston,TX,77074
+"1211 W Hunters Creekway Dr, Houston, TX 77055",For Sale,Townhome,"510,000",183,229,3,3,"2,782",2,2002,1211 W Hunters Creekway Dr, Houston,TX,77055
+"1907 Nocturne Ln, Houston, TX 77043",For Sale,Single Family,"439,900",162,229,4,2,"2,710",2,1963,1907 Nocturne Ln, Houston,TX,77043
+"12818 Misty Lantern Ln, Houston, TX 77044",For Sale,Single Family,"287,000",130,79,4,2,"2,202",2,2008,12818 Misty Lantern Ln, Houston,TX,77044
+"1811 Sullins Way, Houston, TX 77058",For Sale,No Info,"279,000",No Info,No Info,3,2,"2,079",No Info,No Info,1811 Sullins Way, Houston,TX,77058
+"10037 Hillside Bayou Dr, Houston, TX 77080",For Sale,Single Family,"312,000",150,197,3,2,"2,084",2,2009,10037 Hillside Bayou Dr, Houston,TX,77080
+"14622 Ravenhurst Ln, Houston, TX 77070",For Sale,Single Family,"286,100",120,56,4,2,"2,384",2,1976,14622 Ravenhurst Ln, Houston,TX,77070
+"1410 Hyde Park Blvd Apt 110, Houston, TX 77006",For Sale,Condo,"329,000",260,307,2,2,"1,264",2,1976,1410 Hyde Park Blvd Apt 110, Houston,TX,77006
+"14703 Silver Sands St, Houston, TX 77095",For Sale,Single Family,"344,900",142,47,3,2,"2,428",1,1981,14703 Silver Sands St, Houston,TX,77095
+"5824 Kiam St, Houston, TX 77007",For Sale,Single Family,"529,900",236,47,3,2,"2,245",2,2021,5824 Kiam St, Houston,TX,77007
+"5318 Grape St, Houston, TX 77096",For Sale,Single Family,"375,000",193,47,3,2,"1,947",2,1960,5318 Grape St, Houston,TX,77096
+"6211 Sutherland Sq, Houston, TX 77081",For Sale,Townhome,"469,000",151,250,4,3,"3,099",3,2003,6211 Sutherland Sq, Houston,TX,77081
+"1143 Sopris Dr, Houston, TX 77077",For Sale,Single Family,"440,000",138,108,3,3,"3,186",2,2006,1143 Sopris Dr, Houston,TX,77077
+"1409 Vermont St, Houston, TX 77006",For Sale,Single Family,"875,000",259,108,4,4,"3,381",2,2017,1409 Vermont St, Houston,TX,77006
+"2915 Robinhood St, Houston, TX 77005",For Sale,Single Family,"1,460,000",400,108,4,3,"3,652",2,1984,2915 Robinhood St, Houston,TX,77005
+"14926 Bramblewood Dr, Houston, TX 77079",For Sale,Single Family,"739,500",282,54,4,2,"2,620",2,1970,14926 Bramblewood Dr, Houston,TX,77079
+"4914 Lavender St, Houston, TX 77026",For Sale,Single Family,"130,000",86,54,3,1,"1,512",2,1940,4914 Lavender St, Houston,TX,77026
+"6127 Cobalt St, Houston, TX 77016",For Sale,Single Family,"67,500",144,54,2,No Info,470,2,2018,6127 Cobalt St, Houston,TX,77016
+"6114 Cobalt St, Houston, TX 77016",For Sale,Single Family,"136,500",104,54,3,1,"1,307",2,1960,6114 Cobalt St, Houston,TX,77016
+"5502 Beverlyhill St, Houston, TX 77056",For Sale,Single Family,"340,000",137,54,2,2,"2,478",2,1960,5502 Beverlyhill St, Houston,TX,77056
+"3304 Barrington Rd, Houston, TX 77056",For Sale,Single Family,"290,000",133,54,3,2,"2,182",2,1960,3304 Barrington Rd, Houston,TX,77056
+"10406 Chesterfield Dr, Houston, TX 77051",For Sale,Single Family,"169,500",151,54,4,2,"1,122",2,1955,10406 Chesterfield Dr, Houston,TX,77051
+"15819 Mission Glen Dr, Houston, TX 77083",For Sale,Single Family,"279,000",120,33,4,2,"2,324",2,1994,15819 Mission Glen Dr, Houston,TX,77083
+"13327 Gardenia Mist Ln, Houston, TX 77044",For Sale,Single Family,"219,000",148,30,4,2,"1,477",2,2011,13327 Gardenia Mist Ln, Houston,TX,77044
+"2711 Briarhurst Dr Apt 11, Houston, TX 77057",For Sale,Condo,"180,000",163,492,2,2,"1,104",2,1964,2711 Briarhurst Dr Apt 11, Houston,TX,77057
+"9210 Carvel Ln, Houston, TX 77036",For Sale,Single Family,"249,500",103,492,4,2,"2,420",2,1972,9210 Carvel Ln, Houston,TX,77036
+"13207 Montane Manor Ln, Houston, TX 77044",For Sale,Single Family,"220,000",137,35,3,2,"1,602",2,2018,13207 Montane Manor Ln, Houston,TX,77044
+"1122 Blackwood Ave, Houston, TX 77032",For Sale,Single Family,"173,800",144,35,3,1,"1,203",2,1946,1122 Blackwood Ave, Houston,TX,77032
+"8320 Augustine Dr Apt C, Houston, TX 77036",For Sale,Townhome,"105,000",85,332,2,2,"1,229",2,1979,8320 Augustine Dr Apt C, Houston,TX,77036
+"7019 Pyron Way, Houston, TX 77036",For Sale,Single Family,"229,500",125,332,3,2,"1,840",2,1968,7019 Pyron Way, Houston,TX,77036
+"5318 Champions Way Ln, Houston, TX 77066",For Sale,Single Family,"265,000",142,332,3,2,"1,866",2,2002,5318 Champions Way Ln, Houston,TX,77066
+"2231 Saxon Dr, Houston, TX 77018",For Sale,Single Family,"340,000",317,332,3,1,"1,074",1,1953,2231 Saxon Dr, Houston,TX,77018
+"9514 Sharpcrest St, Houston, TX 77036",For Sale,Single Family,"264,000",132,21,3,2,"2,002",2,1981,9514 Sharpcrest St, Houston,TX,77036
+"16568 Space Center Blvd Unit 2, Houston, TX 77058",For Sale,Townhome,"199,000",139,235,3,2,"1,429",1,1976,16568 Space Center Blvd Unit 2, Houston,TX,77058
+"13811 Lakewood Crossing Blvd, Houston, TX 77070",For Sale,Single Family,"499,900",128,40,5,3,"3,899",3,1998,13811 Lakewood Crossing Blvd, Houston,TX,77070
+"17283 Saturn Ln, Houston, TX 77058",For Sale,Townhome,"200,000",152,230,3,2,"1,320",1,1984,17283 Saturn Ln, Houston,TX,77058
+"1006 Northwood St, Houston, TX 77009",For Sale,Single Family,"415,000",377,230,2,1,"1,100",1,1940,1006 Northwood St, Houston,TX,77009
+"2203 Dorrington St Apt 300, Houston, TX 77030",For Sale,Condo,"299,000",252,508,2,2,"1,188",2,2008,2203 Dorrington St Apt 300, Houston,TX,77030
+"18618 Flagstone Creek Rd, Houston, TX 77084",For Sale,Single Family,"349,990",99,58,6,3,"3,552",3,2006,18618 Flagstone Creek Rd, Houston,TX,77084
+"2004 Lou Ellen Ln Unit F, Houston, TX 77018",For Sale,Single Family,"399,900",171,233,3,3,"2,336",2,2016,2004 Lou Ellen Ln Unit F, Houston,TX,77018
+"1223 Studer St, Houston, TX 77007",For Sale,Single Family,"460,000",187,233,3,3,"2,456",2,2007,1223 Studer St, Houston,TX,77007
+"701 Bering Dr Unit 803, Houston, TX 77057",For Sale,Townhome,"340,000",227,385,2,2,"1,500",2,1977,701 Bering Dr Unit 803, Houston,TX,77057
+"2214 North Blvd, Houston, TX 77098",For Sale,Single Family,"779,000",489,385,3,2,"1,592",1,1936,2214 North Blvd, Houston,TX,77098
+"5114 Poinciana Dr, Houston, TX 77092",For Sale,Single Family,"349,000",267,385,3,2,"1,306",2,1955,5114 Poinciana Dr, Houston,TX,77092
+"1108 Tabor St, Houston, TX 77009",For Sale,Single Family,"780,000",311,385,3,2,"2,512",2,2014,1108 Tabor St, Houston,TX,77009
+"6500 Rodrigo St Unit B, Houston, TX 77007",For Sale,Townhome,"659,000",241,385,3,3,"2,736",2,1996,6500 Rodrigo St Unit B, Houston,TX,77007
+"2711 Lucinda St, Houston, TX 77004",For Sale,Single Family,"349,999",242,385,4,3,"1,446",1,2006,2711 Lucinda St, Houston,TX,77004
+"6831 Hobby Wind Ridge Dr, Houston, TX 77075",For Sale,Single Family,"248,380",166,31,3,2,"1,496",2,2021,6831 Hobby Wind Ridge Dr, Houston,TX,77075
+"6938 Hobby Wind Ridge Dr, Houston, TX 77075",For Sale,Single Family,"253,630",168,31,3,2,"1,512",2,2021,6938 Hobby Wind Ridge Dr, Houston,TX,77075
+"3519 Durness Way, Houston, TX 77025",For Sale,Single Family,"995,000",227,31,4,4,"4,384",2,2003,3519 Durness Way, Houston,TX,77025
+"5642 Avalon Way, Houston, TX 77057",For Sale,Single Family,"499,000",178,225,4,3,"2,796",2,2000,5642 Avalon Way, Houston,TX,77057
+"1019 Honey Hill Dr, Houston, TX 77077",For Sale,Single Family,"416,000",171,69,3,2,"2,432",2,1980,1019 Honey Hill Dr, Houston,TX,77077
+"8327 Hunters Creek Dr, Houston, TX 77024",For Sale,Single Family,"895,000",320,69,3,2,"2,800",2,1971,8327 Hunters Creek Dr, Houston,TX,77024
+"1003 Crossroads Dr, Houston, TX 77079",For Sale,Single Family,"999,995",166,67,5,3,"6,033",3,1979,1003 Crossroads Dr, Houston,TX,77079
+"4714 Merwin St, Houston, TX 77027",For Sale,Single Family,"779,900",254,67,4,3,"3,074",2,2021,4714 Merwin St, Houston,TX,77027
+"4718 Merwin St, Houston, TX 77027",For Sale,Single Family,"779,900",253,67,4,3,"3,078",2,2021,4718 Merwin St, Houston,TX,77027
+"4720 Merwin St, Houston, TX 77027",For Sale,Single Family,"779,900",255,67,4,3,"3,062",2,2021,4720 Merwin St, Houston,TX,77027
+"4716 Merwin St, Houston, TX 77027",For Sale,Single Family,"779,900",254,67,4,3,"3,066",2,2021,4716 Merwin St, Houston,TX,77027
+"7417 Yoe St, Houston, TX 77016",For Sale,Single Family,"179,900",110,67,4,2,"1,638",2,1960,7417 Yoe St, Houston,TX,77016
+"3214 S Greenpark Dr, Houston, TX 77082",For Sale,Single Family,"235,000",114,46,3,2,"2,061",2,1983,3214 S Greenpark Dr, Houston,TX,77082
+"8815 Abbeydale Dr, Houston, TX 77031",For Sale,Single Family,"264,000",116,42,4,2,"2,275",2,1976,8815 Abbeydale Dr, Houston,TX,77031
+"6039 Carpenters Cove Ln, Houston, TX 77049",For Sale,Single Family,"240,000",129,42,3,2,"1,855",2,2018,6039 Carpenters Cove Ln, Houston,TX,77049
+"10501 South Dr Apt 283, Houston, TX 77099",For Sale,Condo,"75,000",86,265,2,1,870,2,1980,10501 South Dr Apt 283, Houston,TX,77099
+"7923 Glenview Dr, Houston, TX 77061",For Sale,Single Family,"273,000",96,265,3,2,"2,836",2,1955,7923 Glenview Dr, Houston,TX,77061
+"12847 Magenta Oaks Dr, Houston, TX 77072",For Sale,Single Family,"289,000",90,25,6,3,"3,206",2,2004,12847 Magenta Oaks Dr, Houston,TX,77072
+"5522 Pershing St, Houston, TX 77033",For Sale,Multi-Family,"400,000",131,25,4,3,"3,051",2,2019,5522 Pershing St, Houston,TX,77033
+"17806 Kings Park Ln Unit 29, Houston, TX 77058",For Sale,Condo,"149,808",111,444,2,2,"1,350",2,1979,17806 Kings Park Ln Unit 29, Houston,TX,77058
+"909 Silber Rd Unit 14C, Houston, TX 77024",For Sale,Condo,"145,500",184,328,2,1,792,2,1965,909 Silber Rd Unit 14C, Houston,TX,77024
+"13221 Rockglen St, Houston, TX 77015",For Sale,Single Family,"215,000",178,328,3,1,"1,206",5,1955,13221 Rockglen St, Houston,TX,77015
+"13827 Cane Valley Ct, Houston, TX 77044",For Sale,Single Family,"263,300",148,74,3,2,"1,780",2,2005,13827 Cane Valley Ct, Houston,TX,77044
+"10488 Hammerly Blvd Unit 81, Houston, TX 77043",For Sale,Townhome,"149,900",103,260,2,2,"1,452",2,1970,10488 Hammerly Blvd Unit 81, Houston,TX,77043
+"16507 Keegans Ridge Way Dr, Houston, TX 77083",For Sale,Single Family,"314,900",113,37,4,2,"2,799",2,2003,16507 Keegans Ridge Way Dr, Houston,TX,77083
+"3806 Ascot Ln, Houston, TX 77092",For Sale,Single Family,"400,000",178,37,2,2,"2,248",2,1950,3806 Ascot Ln, Houston,TX,77092
+"12618 Aubreywood Ln, Houston, TX 77070",For Sale,Single Family,"293,000",144,37,3,2,"2,037",2,2003,12618 Aubreywood Ln, Houston,TX,77070
+"23 Stalynn Ln, Houston, TX 77027",For Sale,Single Family,"585,000",157,342,3,3,"3,728",2,1999,23 Stalynn Ln, Houston,TX,77027
+"17331 Red Oak Dr Apt 25, Houston, TX 77090",For Sale,Condo,"84,990",119,120,1,1,714,2,1978,17331 Red Oak Dr Apt 25, Houston,TX,77090
+"9210 Clay Rd, Houston, TX 77080",For Sale,Single Family,"450,000",276,120,3,2,"1,633",2,1953,9210 Clay Rd, Houston,TX,77080
+"11718 Stillwater Dr, Houston, TX 77070",For Sale,Single Family,"267,000",130,120,4,2,"2,050",2,1979,11718 Stillwater Dr, Houston,TX,77070
+"6107 Rolling Water Dr, Houston, TX 77069",For Sale,Single Family,"535,000",152,70,5,3,"3,516",3,1970,6107 Rolling Water Dr, Houston,TX,77069
+"4103 Pine Crest Trl, Houston, TX 77059",For Sale,Single Family,"549,900",141,45,4,4,"3,898",2,1997,4103 Pine Crest Trl, Houston,TX,77059
+"3868 Center St, Houston, TX 77007",For Sale,Townhome,"299,900",264,119,2,2,"1,138",2,2005,3868 Center St, Houston,TX,77007
+"9818 Marlink, Houston, TX 77025",For Sale,Single Family,"379,900",141,125,3,3,"2,693",2,2003,9818 Marlink, Houston,TX,77025
+"2602 Washington Ave Apt C, Houston, TX 77007",For Sale,Condo,"440,000",159,125,2,2,"2,774",2,1997,2602 Washington Ave Apt C, Houston,TX,77007
+"15710 Whitewater Ln, Houston, TX 77079",For Sale,Single Family,"374,000",145,79,3,2,"2,571",2,1981,15710 Whitewater Ln, Houston,TX,77079
+"917 Main St Apt 604, Houston, TX 77002",For Sale,Condo,"315,000",199,945,2,2,"1,583",2,1920,917 Main St Apt 604, Houston,TX,77002
+"3108 Rogers St, Houston, TX 77022",For Sale,Single Family,"325,000",198,945,3,2,"1,640",2,2018,3108 Rogers St, Houston,TX,77022
+"11227 Timberline Rd, Houston, TX 77043",For Sale,Single Family,"395,000",170,945,3,2,"2,324",1,1967,11227 Timberline Rd, Houston,TX,77043
+"8203 N Main St, Houston, TX 77022",For Sale,Single Family,"212,500",155,945,3,2,"1,368",1,2021,8203 N Main St, Houston,TX,77022
+"5015 Nolda St, Houston, TX 77007",For Sale,Townhome,"410,000",172,200,3,2,"2,380",2,1996,5015 Nolda St, Houston,TX,77007
+"5814 Braesheather Dr, Houston, TX 77096",For Sale,Single Family,"439,900",171,41,5,2,"2,578",2,1962,5814 Braesheather Dr, Houston,TX,77096
+"502 W Donovan St Unit K, Houston, TX 77091",For Sale,Single Family,"339,990",194,105,3,2,"1,753",2,2021,502 W Donovan St Unit K, Houston,TX,77091
+"2714 Durban Dr, Houston, TX 77043",For Sale,Single Family,"599,000",210,28,4,2,"2,857",2,1972,2714 Durban Dr, Houston,TX,77043
+"9551 Neuens Rd Unit C, Houston, TX 77080",For Sale,Single Family,"324,990",217,100,3,2,"1,498",2,2021,9551 Neuens Rd Unit C, Houston,TX,77080
+"11803 Drexelbrook Dr, Houston, TX 77077",For Sale,Single Family,"527,000",169,66,4,3,"3,126",3,1976,11803 Drexelbrook Dr, Houston,TX,77077
+"11206 Waxwing St, Houston, TX 77035",For Sale,Multi-Family,"400,000",159,66,4,2,"2,513",3,1961,11206 Waxwing St, Houston,TX,77035
+"415 Byrne St, Houston, TX 77009",For Sale,Single Family,"575,000",251,66,3,3,"2,287",2,1920,415 Byrne St, Houston,TX,77009
+"2207 Bancroft St Apt 1204, Houston, TX 77027",For Sale,Condo,"749,000",548,1147,2,2,"1,366",2,2010,2207 Bancroft St Apt 1204, Houston,TX,77027
+"12523 Malachite Way, Houston, TX 77077",For Sale,Single Family,"399,995",181,183,4,3,"2,213",2,2020,12523 Malachite Way, Houston,TX,77077
+"14918 LA Quinta Ln, Houston, TX 77079",For Sale,Single Family,"629,900",294,83,4,2,"2,143",2,1973,14918 LA Quinta Ln, Houston,TX,77079
+"2411 Brazoria St, Houston, TX 77019",For Sale,Single Family,"1,099,000",321,221,3,3,"3,422",2,2005,2411 Brazoria St, Houston,TX,77019
