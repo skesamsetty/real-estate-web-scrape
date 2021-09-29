@@ -1,0 +1,5 @@
+Address,Status,Property Type,Price,Price per sqft,HOA Fees,Bed,Bath,Size,Garage,Year Built,Load DateTime,Street,City,State,Zip
+"Opal Cyn, Duarte, CA 91010",Contingent,Land,399000,No Info,No Info,No Info,No Info,No Info,No Info,No Info,Sun Sep 26 16:53:02 2021,Opal Cyn, Duarte,CA,91010
+"1820 Huntington Dr, Duarte, CA 91010",Pending,Condo,475000,448,412,2,2.0,"1,060",2,1985,Sun Sep 26 16:53:02 2021,1820 Huntington Dr, Duarte,CA,91010
+"2074 Goodall Ave, Duarte, CA 91010",Pending,Single Family,545000,588,412,3,1.0,927,1,1952,Sun Sep 26 16:53:02 2021,2074 Goodall Ave, Duarte,CA,91010
+"3514 Conata St, Duarte, CA 91010",Pending,Single Family,699950,448,412,4,2.0,"1,564",2,1966,Sun Sep 26 16:53:02 2021,3514 Conata St, Duarte,CA,91010
