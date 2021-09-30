@@ -1,5 +1,43 @@
 Address,Status,Property Type,Price,Price per sqft,HOA Fees,Bed,Bath,Size,Garage,Year Built,Load DateTime,Street,City,State,Zip
-"Opal Cyn, Duarte, CA 91010",Contingent,Land,399000,No Info,No Info,No Info,No Info,No Info,No Info,No Info,Sun Sep 26 16:53:02 2021,Opal Cyn, Duarte,CA,91010
-"1820 Huntington Dr, Duarte, CA 91010",Pending,Condo,475000,448,412,2,2.0,"1,060",2,1985,Sun Sep 26 16:53:02 2021,1820 Huntington Dr, Duarte,CA,91010
-"2074 Goodall Ave, Duarte, CA 91010",Pending,Single Family,545000,588,412,3,1.0,927,1,1952,Sun Sep 26 16:53:02 2021,2074 Goodall Ave, Duarte,CA,91010
-"3514 Conata St, Duarte, CA 91010",Pending,Single Family,699950,448,412,4,2.0,"1,564",2,1966,Sun Sep 26 16:53:02 2021,3514 Conata St, Duarte,CA,91010
+"1020 Bradbourne Ave Spc 47, Duarte, CA 91010",For Sale,Mfd/Mobile,90000,167,No Info,1,1.0,540,No Info,2000,Wed Sep 29 12:37:44 2021,1020 Bradbourne Ave Spc 47, Duarte,CA,91010
+"848 Cinnamon Ln Unit 41, Duarte, CA 91010",Pending,Condo,369000,412,400,2,1.0,896,2,1984,Wed Sep 29 12:37:44 2021,848 Cinnamon Ln Unit 41, Duarte,CA,91010
+"827 Cinnamon Ln Unit 3, Duarte, CA 91010",Contingent,Condo,406000,453,400,2,1.0,896,2,1984,Wed Sep 29 12:37:44 2021,827 Cinnamon Ln Unit 3, Duarte,CA,91010
+"1020 Bradbourne Ave Spc 18, Duarte, CA 91010",For Sale,Mfd/Mobile,199900,192,400,2,2.0,"1,040",2,2021,Wed Sep 29 12:37:44 2021,1020 Bradbourne Ave Spc 18, Duarte,CA,91010
+"765 El Sur St, Duarte, CA 91010",Pending,Single Family,499250,392,400,3,1.0,"1,275",2,1949,Wed Sep 29 12:37:44 2021,765 El Sur St, Duarte,CA,91010
+"863 Swiss Trails Rd, Duarte, CA 91010",For Sale,Townhome,659000,453,315,3,2.0,"1,454",2,1986,Wed Sep 29 12:37:44 2021,863 Swiss Trails Rd, Duarte,CA,91010
+"824 Cinnamon Ln, Duarte, CA 91010",Pending,Condo,418000,421,400,2,2.0,993,2,1983,Wed Sep 29 12:37:44 2021,824 Cinnamon Ln, Duarte,CA,91010
+"830 Cinnamon Ln, Duarte, CA 91010",Contingent,Condo,399000,402,400,2,2.0,993,2,1983,Wed Sep 29 12:37:44 2021,830 Cinnamon Ln, Duarte,CA,91010
+"826 Cinnamon Ln, Duarte, CA 91010",For Sale,Condo,419000,468,400,2,1.0,896,2,1983,Wed Sep 29 12:37:44 2021,826 Cinnamon Ln, Duarte,CA,91010
+"1916 Chesson St, Duarte, CA 91010",Pending,Single Family,580000,703,400,2,1.0,825,2,1948,Wed Sep 29 12:37:44 2021,1916 Chesson St, Duarte,CA,91010
+"2415 Flagstone Ave, Duarte, CA 91010",Contingent,Single Family,465000,414,400,3,1.0,"1,122",1,1960,Wed Sep 29 12:37:44 2021,2415 Flagstone Ave, Duarte,CA,91010
+"1702 1st St, Duarte, CA 91010",For Sale,Multi-Family,750000,599,400,No Info,2.0,"1,252",1,1928,Wed Sep 29 12:37:44 2021,1702 1st St, Duarte,CA,91010
+"2074 Goodall Ave, Duarte, CA 91010",Pending,Single Family,545000,588,400,3,1.0,927,1,1952,Wed Sep 29 12:37:44 2021,2074 Goodall Ave, Duarte,CA,91010
+"2010 Park Rose Ave, Duarte, CA 91010",For Sale,Single Family,720000,490,400,3,2.0,"1,468",2,1949,Wed Sep 29 12:37:44 2021,2010 Park Rose Ave, Duarte,CA,91010
+"1907 Shamrock Ave, Duarte, CA 91010",Pending,Single Family,599900,446,400,2,2.0,"1,344",2,1950,Wed Sep 29 12:37:44 2021,1907 Shamrock Ave, Duarte,CA,91010
+"2136 Citrus View Ave, Duarte, CA 91010",Pending,Single Family,650000,398,400,3,2.0,"1,632",2,1951,Wed Sep 29 12:37:44 2021,2136 Citrus View Ave, Duarte,CA,91010
+"1214 Huntington Dr Unit H, Duarte, CA 91010",Contingent,Condo,398000,416,200,2,2.0,956,1,1980,Wed Sep 29 12:37:44 2021,1214 Huntington Dr Unit H, Duarte,CA,91010
+"411 Woodmere Pl, Duarte, CA 91010",Pending,Single Family,899950,515,200,3,2.0,"1,747",2,1964,Wed Sep 29 12:37:44 2021,411 Woodmere Pl, Duarte,CA,91010
+"2842 Conata St, Duarte, CA 91010",Contingent,Single Family,900000,539,200,4,2.0,"1,670",2,1954,Wed Sep 29 12:37:44 2021,2842 Conata St, Duarte,CA,91010
+"844 Junipero Dr Unit C, Duarte, CA 91010",Contingent,Condo,428000,363,225,3,1.0,"1,178",1,1975,Wed Sep 29 12:37:44 2021,844 Junipero Dr Unit C, Duarte,CA,91010
+"907 Cabrillo Dr, Duarte, CA 91010",Contingent,Condo,415000,499,209,2,1.0,832,1,1972,Wed Sep 29 12:37:44 2021,907 Cabrillo Dr, Duarte,CA,91010
+"957 Maynard Dr, Duarte, CA 91010",Contingent,Single Family,600000,645,209,2,2.0,930,1,1949,Wed Sep 29 12:37:44 2021,957 Maynard Dr, Duarte,CA,91010
+"895 San Juan Cir, Duarte, CA 91010",Contingent,Single Family,649000,409,209,3,2.0,"1,585",2,1980,Wed Sep 29 12:37:44 2021,895 San Juan Cir, Duarte,CA,91010
+"2600 Huntington Dr Unit F, Duarte, CA 91010",Contingent,Condo,499900,376,325,2,3.0,"1,330",2,1980,Wed Sep 29 12:37:44 2021,2600 Huntington Dr Unit F, Duarte,CA,91010
+"3514 Conata St, Duarte, CA 91010",Pending,Single Family,699950,448,325,4,2.0,"1,564",2,1966,Wed Sep 29 12:37:44 2021,3514 Conata St, Duarte,CA,91010
+"3339 Tannencrest Dr, Duarte, CA 91010",Contingent,Single Family,849000,505,325,4,2.0,"1,681",3,1978,Wed Sep 29 12:37:44 2021,3339 Tannencrest Dr, Duarte,CA,91010
+"2508 Bloomdale St, Duarte, CA 91010",Pending,Single Family,550000,398,325,3,2.0,"1,381",2,1950,Wed Sep 29 12:37:44 2021,2508 Bloomdale St, Duarte,CA,91010
+"938 Huntington Dr Unit F, Duarte, CA 91010",For Sale,Condo,549888,398,245,3,3.0,"1,381",2,1979,Wed Sep 29 12:37:44 2021,938 Huntington Dr Unit F, Duarte,CA,91010
+"2497 Calle Villada Cir, Duarte, CA 91010",Pending,Single Family,639000,400,245,3,2.0,"1,598",1,1979,Wed Sep 29 12:37:44 2021,2497 Calle Villada Cir, Duarte,CA,91010
+"1543 Delford Ave, Duarte, CA 91010",For Sale,Single Family,719999,607,245,3,1.0,"1,186",1,1948,Wed Sep 29 12:37:44 2021,1543 Delford Ave, Duarte,CA,91010
+"806 Lewiston St, Duarte, CA 91010",For Sale,Single Family,818000,394,245,4,3.0,"2,077",2,1949,Wed Sep 29 12:37:44 2021,806 Lewiston St, Duarte,CA,91010
+"1928 Earlington Ave, Duarte, CA 91010",Pending,Single Family,535000,667,245,2,1.0,802,1,1949,Wed Sep 29 12:37:44 2021,1928 Earlington Ave, Duarte,CA,91010
+"1254 Duarte Rd, Duarte, CA 91010",For Sale,Single Family,790000,447,180,4,3.0,"1,769",2,2006,Wed Sep 29 12:37:44 2021,1254 Duarte Rd, Duarte,CA,91010
+"2602 Fernley Dr, Duarte, CA 91010",For Sale,Single Family,614900,625,180,3,2.0,984,2,1955,Wed Sep 29 12:37:44 2021,2602 Fernley Dr, Duarte,CA,91010
+"815 Meridian St, Duarte, CA 91010",For Sale,Single Family,1000000,625,180,2,1.0,"1,600",4,1926,Wed Sep 29 12:37:44 2021,815 Meridian St, Duarte,CA,91010
+"3466 Conata St, Duarte, CA 91010",Contingent,Single Family,749000,517,180,4,2.0,"1,450",2,1964,Wed Sep 29 12:37:44 2021,3466 Conata St, Duarte,CA,91010
+"1252 E Duarte Rd, Duarte, CA 91010",Pending,Single Family,785000,442,180,4,4.0,"1,778",2,2006,Wed Sep 29 12:37:44 2021,1252 E Duarte Rd, Duarte,CA,91010
+"2311 Park Rose Ave, Duarte, CA 91010",Pending,Single Family,565000,589,180,3,1.0,960,2,1952,Wed Sep 29 12:37:44 2021,2311 Park Rose Ave, Duarte,CA,91010
+"1903 Earlington Ave, Duarte, CA 91010",Contingent,Single Family,699900,575,180,3,2.0,"1,217",2,1949,Wed Sep 29 12:37:44 2021,1903 Earlington Ave, Duarte,CA,91010
+"318 Bettyhill Ave, Duarte, CA 91010",Pending,Single Family,750000,520,180,3,2.0,"1,441",2,1957,Wed Sep 29 12:37:44 2021,318 Bettyhill Ave, Duarte,CA,91010
+"2103 Goodall Ave, Duarte, CA 91010",Pending,Single Family,525000,561,180,3,1.0,936,2,1952,Wed Sep 29 12:37:44 2021,2103 Goodall Ave, Duarte,CA,91010
+"2333 Bloomdale St, Duarte, CA 91010",Contingent,Single Family,599000,701,180,2,1.0,855,2,1950,Wed Sep 29 12:37:44 2021,2333 Bloomdale St, Duarte,CA,91010

@@ -1,6 +1,7 @@
 CREATE TABLE listings
 (
 	property_id		SERIAL PRIMARY KEY,
+	mls_listing_id	VARCHAR,	
 	full_address	VARCHAR,
 	status			VARCHAR,
 	property_type	VARCHAR(30),
